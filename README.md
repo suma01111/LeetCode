@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/suma01111/LeetCode/tree/master/0002-add-two-numbers) |
+| [0633-sum-of-square-numbers](https://github.com/suma01111/LeetCode/tree/master/0633-sum-of-square-numbers) |
 ## Recursion
 |  |
 | ------- |
@@ -18,5 +19,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0633-sum-of-square-numbers](https://github.com/suma01111/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/suma01111/LeetCode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
+## Binary Search
+|  |
+| ------- |
+| [0633-sum-of-square-numbers](https://github.com/suma01111/LeetCode/tree/master/0633-sum-of-square-numbers) |
 <!---LeetCode Topics End-->
