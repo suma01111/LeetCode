@@ -29,9 +29,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0118-pascals-triangle](https://github.com/suma01111/LeetCode/tree/master/0118-pascals-triangle) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/suma01111/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Hash Table
 |  |
 | ------- |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/suma01111/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0118-pascals-triangle](https://github.com/suma01111/LeetCode/tree/master/0118-pascals-triangle) |
 <!---LeetCode Topics End-->
