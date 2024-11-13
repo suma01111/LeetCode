@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/suma01111/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0633-sum-of-square-numbers](https://github.com/suma01111/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/suma01111/LeetCode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Binary Search
@@ -39,5 +40,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/suma01111/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0118-pascals-triangle](https://github.com/suma01111/LeetCode/tree/master/0118-pascals-triangle) |
+## String
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/suma01111/LeetCode/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
