@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/suma01111/LeetCode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/suma01111/LeetCode/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/suma01111/LeetCode/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/suma01111/LeetCode/tree/master/0013-roman-to-integer) |
 | [0633-sum-of-square-numbers](https://github.com/suma01111/LeetCode/tree/master/0633-sum-of-square-numbers) |
 ## Recursion
 |  |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/suma01111/LeetCode/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/suma01111/LeetCode/tree/master/0013-roman-to-integer) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/suma01111/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Dynamic Programming
 |  |
@@ -52,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/suma01111/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0012-integer-to-roman](https://github.com/suma01111/LeetCode/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/suma01111/LeetCode/tree/master/0013-roman-to-integer) |
 ## Greedy
 |  |
 | ------- |
