@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/suma01111/LeetCode/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/suma01111/LeetCode/tree/master/0189-rotate-array) |
 | [0633-sum-of-square-numbers](https://github.com/suma01111/LeetCode/tree/master/0633-sum-of-square-numbers) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/suma01111/LeetCode/tree/master/2432-number-of-zero-filled-subarrays) |
 ## Recursion
 |  |
 | ------- |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0334-increasing-triplet-subsequence](https://github.com/suma01111/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
 | [0407-trapping-rain-water-ii](https://github.com/suma01111/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/suma01111/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/suma01111/LeetCode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/suma01111/LeetCode/tree/master/2792-neighboring-bitwise-xor) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/suma01111/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Hash Table
