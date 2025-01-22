@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/suma01111/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/suma01111/LeetCode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/suma01111/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0125-valid-palindrome](https://github.com/suma01111/LeetCode/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/suma01111/LeetCode/tree/master/0189-rotate-array) |
 | [0392-is-subsequence](https://github.com/suma01111/LeetCode/tree/master/0392-is-subsequence) |
 | [0633-sum-of-square-numbers](https://github.com/suma01111/LeetCode/tree/master/0633-sum-of-square-numbers) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/suma01111/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0012-integer-to-roman](https://github.com/suma01111/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/suma01111/LeetCode/tree/master/0013-roman-to-integer) |
+| [0125-valid-palindrome](https://github.com/suma01111/LeetCode/tree/master/0125-valid-palindrome) |
 | [0392-is-subsequence](https://github.com/suma01111/LeetCode/tree/master/0392-is-subsequence) |
 ## Greedy
 |  |
