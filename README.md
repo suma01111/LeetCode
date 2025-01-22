@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/suma01111/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0012-integer-to-roman](https://github.com/suma01111/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/suma01111/LeetCode/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/suma01111/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/suma01111/LeetCode/tree/master/0125-valid-palindrome) |
 | [0392-is-subsequence](https://github.com/suma01111/LeetCode/tree/master/0392-is-subsequence) |
 ## Greedy
@@ -136,4 +137,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/suma01111/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/suma01111/LeetCode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
