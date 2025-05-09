@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/suma01111/LeetCode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/suma01111/LeetCode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2448-count-number-of-bad-pairs](https://github.com/suma01111/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
+| [2608-count-the-digits-that-divide-a-number](https://github.com/suma01111/LeetCode/tree/master/2608-count-the-digits-that-divide-a-number) |
 | [2610-closest-prime-numbers-in-range](https://github.com/suma01111/LeetCode/tree/master/2610-closest-prime-numbers-in-range) |
 | [2649-count-total-number-of-colored-cells](https://github.com/suma01111/LeetCode/tree/master/2649-count-total-number-of-colored-cells) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/suma01111/LeetCode/tree/master/2802-find-the-punishment-number-of-an-integer) |
