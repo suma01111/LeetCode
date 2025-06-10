@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3227-find-missing-and-repeated-values](https://github.com/suma01111/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/suma01111/LeetCode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/suma01111/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/suma01111/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2456-construct-smallest-number-from-di-string](https://github.com/suma01111/LeetCode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/suma01111/LeetCode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3447-clear-digits](https://github.com/suma01111/LeetCode/tree/master/3447-clear-digits) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/suma01111/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Greedy
 |  |
 | ------- |
@@ -183,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1396-count-servers-that-communicate](https://github.com/suma01111/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/suma01111/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2448-count-number-of-bad-pairs](https://github.com/suma01111/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/suma01111/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Prefix Sum
 |  |
 | ------- |
