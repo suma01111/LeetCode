@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/suma01111/LeetCode/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/suma01111/LeetCode/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/suma01111/LeetCode/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/suma01111/LeetCode/tree/master/0268-missing-number) |
 | [0633-sum-of-square-numbers](https://github.com/suma01111/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [1477-product-of-the-last-k-numbers](https://github.com/suma01111/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/suma01111/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/suma01111/LeetCode/tree/master/0268-missing-number) |
 | [0633-sum-of-square-numbers](https://github.com/suma01111/LeetCode/tree/master/0633-sum-of-square-numbers) |
 ## Array
 |  |
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/suma01111/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/suma01111/LeetCode/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/suma01111/LeetCode/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/suma01111/LeetCode/tree/master/0268-missing-number) |
 | [0334-increasing-triplet-subsequence](https://github.com/suma01111/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
 | [0407-trapping-rain-water-ii](https://github.com/suma01111/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0485-max-consecutive-ones](https://github.com/suma01111/LeetCode/tree/master/0485-max-consecutive-ones) |
@@ -109,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/suma01111/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/suma01111/LeetCode/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/suma01111/LeetCode/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/suma01111/LeetCode/tree/master/0268-missing-number) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/suma01111/LeetCode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/suma01111/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/suma01111/LeetCode/tree/master/1160-letter-tile-possibilities) |
@@ -175,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/suma01111/LeetCode/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/suma01111/LeetCode/tree/master/0268-missing-number) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/suma01111/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/suma01111/LeetCode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Counting
@@ -198,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/suma01111/LeetCode/tree/master/0191-number-of-1-bits) |
+| [0268-missing-number](https://github.com/suma01111/LeetCode/tree/master/0268-missing-number) |
 | [2792-neighboring-bitwise-xor](https://github.com/suma01111/LeetCode/tree/master/2792-neighboring-bitwise-xor) |
 ## Breadth-First Search
 |  |
