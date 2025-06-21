@@ -1,3 +1,5 @@
+// striver
+
 class Solution {
 public:
     int subarraySum(vector<int>& nums, int k) {
@@ -12,8 +14,8 @@ public:
             prefixSum+= nums[i];
 
             int remove = prefixSum - k ;
-            cnt+= pSum_cnt[remove];
-            pSum_cnt[prefixSum] +=1;
+            cnt+= pSum_cnt[remove]; //if remove is available then cnt ++
+            pSum_cnt[prefixSum] +=1;//put prefixSum in map with cnt++wrt that sum 
         }
         return cnt;
     }
