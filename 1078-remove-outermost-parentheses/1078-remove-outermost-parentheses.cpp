@@ -1,6 +1,7 @@
 class Solution {
 public:
     string removeOuterParentheses(string s) {
+//two if else condition required , focus on cnt increase and decrease
         int cnt =0;
         string result = "";
 
