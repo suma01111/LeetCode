@@ -340,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/suma01111/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/suma01111/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/suma01111/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/suma01111/LeetCode/tree/master/0513-find-bottom-left-tree-value) |
 | [0572-subtree-of-another-tree](https://github.com/suma01111/LeetCode/tree/master/0572-subtree-of-another-tree) |
 | [0684-redundant-connection](https://github.com/suma01111/LeetCode/tree/master/0684-redundant-connection) |
@@ -428,6 +429,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/suma01111/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0102-binary-tree-level-order-traversal](https://github.com/suma01111/LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/suma01111/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/suma01111/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/suma01111/LeetCode/tree/master/0513-find-bottom-left-tree-value) |
 | [0572-subtree-of-another-tree](https://github.com/suma01111/LeetCode/tree/master/0572-subtree-of-another-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/suma01111/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
@@ -441,6 +443,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/suma01111/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0102-binary-tree-level-order-traversal](https://github.com/suma01111/LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/suma01111/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/suma01111/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/suma01111/LeetCode/tree/master/0513-find-bottom-left-tree-value) |
 | [0572-subtree-of-another-tree](https://github.com/suma01111/LeetCode/tree/master/0572-subtree-of-another-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/suma01111/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
