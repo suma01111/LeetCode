@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-product-of-the-last-k-numbers](https://github.com/suma01111/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/suma01111/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/suma01111/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1628-count-submatrices-with-all-ones](https://github.com/suma01111/LeetCode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/suma01111/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1646-kth-missing-positive-number](https://github.com/suma01111/LeetCode/tree/master/1646-kth-missing-positive-number) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/suma01111/LeetCode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/suma01111/LeetCode/tree/master/0392-is-subsequence) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/suma01111/LeetCode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1170-shortest-common-supersequence](https://github.com/suma01111/LeetCode/tree/master/1170-shortest-common-supersequence) |
+| [1628-count-submatrices-with-all-ones](https://github.com/suma01111/LeetCode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/suma01111/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/suma01111/LeetCode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/suma01111/LeetCode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
@@ -327,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0854-making-a-large-island](https://github.com/suma01111/LeetCode/tree/master/0854-making-a-large-island) |
 | [1396-count-servers-that-communicate](https://github.com/suma01111/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/suma01111/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [1628-count-submatrices-with-all-ones](https://github.com/suma01111/LeetCode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1876-map-of-highest-peak](https://github.com/suma01111/LeetCode/tree/master/1876-map-of-highest-peak) |
 | [2145-grid-game](https://github.com/suma01111/LeetCode/tree/master/2145-grid-game) |
 | [2685-first-completely-painted-row-or-column](https://github.com/suma01111/LeetCode/tree/master/2685-first-completely-painted-row-or-column) |
@@ -411,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/suma01111/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/suma01111/LeetCode/tree/master/0496-next-greater-element-i) |
 | [1078-remove-outermost-parentheses](https://github.com/suma01111/LeetCode/tree/master/1078-remove-outermost-parentheses) |
+| [1628-count-submatrices-with-all-ones](https://github.com/suma01111/LeetCode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/suma01111/LeetCode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/suma01111/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/suma01111/LeetCode/tree/master/2456-construct-smallest-number-from-di-string) |
@@ -487,6 +491,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/suma01111/LeetCode/tree/master/0496-next-greater-element-i) |
+| [1628-count-submatrices-with-all-ones](https://github.com/suma01111/LeetCode/tree/master/1628-count-submatrices-with-all-ones) |
 ## String Matching
 |  |
 | ------- |
