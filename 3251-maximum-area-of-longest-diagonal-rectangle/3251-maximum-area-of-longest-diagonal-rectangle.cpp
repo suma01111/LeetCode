@@ -1,20 +1,26 @@
 class Solution {
 public:
     int areaOfMaxDiagonal(vector<vector<int>>& dimensions) {
-        int maxDiag = -1;  // store max diagonal squared
-        int maxArea = -1;  // store max area for tie cases
+        int maxDia = 0;
+        int maxArea=0;
+        for(auto &dim : dimensions){
+            int l = dim[0];
+            int b = dim[1];
+            int dia = l*l + b*b;
+            int area = l*b;
 
-        for (auto& rect : dimensions) {
-            int w = rect[0], h = rect[1];
-            int diag = w*w + h*h;   // diagonal squared
-            int area = w*h;         // area
-
-            // check if we found a better rectangle
-            if (diag > maxDiag || (diag == maxDiag && area > maxArea)) {
-                maxDiag = diag;
+            if(maxDia<dia){
+                maxDia = dia;
                 maxArea = area;
+            } 
+            else if(dia == maxDia) {
+                maxArea = max(maxArea,area);
             }
         }
         return maxArea;
     }
 };
+
+
+
+
