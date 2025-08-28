@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/suma01111/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/suma01111/LeetCode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/suma01111/LeetCode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
+| [3748-sort-matrix-by-diagonals](https://github.com/suma01111/LeetCode/tree/master/3748-sort-matrix-by-diagonals) |
 | [3790-fruits-into-baskets-ii](https://github.com/suma01111/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/suma01111/LeetCode/tree/master/3791-fruits-into-baskets-iii) |
 ## Hash Table
@@ -251,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0876-hand-of-straights](https://github.com/suma01111/LeetCode/tree/master/0876-hand-of-straights) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/suma01111/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/suma01111/LeetCode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
+| [3748-sort-matrix-by-diagonals](https://github.com/suma01111/LeetCode/tree/master/3748-sort-matrix-by-diagonals) |
 ## Counting
 |  |
 | ------- |
@@ -339,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/suma01111/LeetCode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3227-find-missing-and-repeated-values](https://github.com/suma01111/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/suma01111/LeetCode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
+| [3748-sort-matrix-by-diagonals](https://github.com/suma01111/LeetCode/tree/master/3748-sort-matrix-by-diagonals) |
 ## Shortest Path
 |  |
 | ------- |
