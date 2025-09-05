@@ -291,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/suma01111/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/suma01111/LeetCode/tree/master/0268-missing-number) |
 | [2792-neighboring-bitwise-xor](https://github.com/suma01111/LeetCode/tree/master/2792-neighboring-bitwise-xor) |
+| [2837-minimum-operations-to-make-the-integer-zero](https://github.com/suma01111/LeetCode/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -536,4 +537,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/suma01111/LeetCode/tree/master/0204-count-primes) |
+| [2837-minimum-operations-to-make-the-integer-zero](https://github.com/suma01111/LeetCode/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
+## Brainteaser
+|  |
+| ------- |
+| [2837-minimum-operations-to-make-the-integer-zero](https://github.com/suma01111/LeetCode/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 <!---LeetCode Topics End-->
