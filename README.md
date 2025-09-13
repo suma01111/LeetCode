@@ -182,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/suma01111/LeetCode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/suma01111/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/suma01111/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/suma01111/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -231,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3447-clear-digits](https://github.com/suma01111/LeetCode/tree/master/3447-clear-digits) |
 | [3617-find-the-original-typed-string-i](https://github.com/suma01111/LeetCode/tree/master/3617-find-the-original-typed-string-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/suma01111/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/suma01111/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Greedy
 |  |
 | ------- |
@@ -278,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/suma01111/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2448-count-number-of-bad-pairs](https://github.com/suma01111/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/suma01111/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/suma01111/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Prefix Sum
 |  |
 | ------- |
