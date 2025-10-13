@@ -1,27 +1,25 @@
 class Solution {
 public:
     vector<string> removeAnagrams(vector<string>& words) {
-        vector<string> res = {words[0]};  // result array
-        int n = words.size();
-        // determine if two words are anagrams
-        auto compare = [](const string& word1, const string& word2) -> bool {
-            vector<int> freq(26);
-            for (char ch : word1) {
-                ++freq[ch - 'a'];
+        vector<string> result;
+        
+        for (auto &word : words) {
+            if (result.empty()) {
+                result.push_back(word);
+            } else {
+                string prev = result.back();
+                
+                // sort both to check if they are anagrams
+                string sortedPrev = prev, sortedCurr = word;
+                sort(sortedPrev.begin(), sortedPrev.end());
+                sort(sortedCurr.begin(), sortedCurr.end());
+                
+                // only push if not anagrams
+                if (sortedPrev != sortedCurr)
+                    result.push_back(word);
             }
-            for (char ch : word2) {
-                --freq[ch - 'a'];
-            }
-            return all_of(freq.begin(), freq.end(),
-                          [](int x) { return x == 0; });
-        };
-
-        for (int i = 1; i < n; ++i) {
-            if (compare(words[i], words[i - 1])) {
-                continue;
-            }
-            res.push_back(words[i]);
         }
-        return res;
+        
+        return result;
     }
 };
