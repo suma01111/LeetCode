@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/suma01111/LeetCode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/suma01111/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0037-sudoku-solver](https://github.com/suma01111/LeetCode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/suma01111/LeetCode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/suma01111/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0048-rotate-image](https://github.com/suma01111/LeetCode/tree/master/0048-rotate-image) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/suma01111/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/suma01111/LeetCode/tree/master/0013-roman-to-integer) |
+| [0037-sudoku-solver](https://github.com/suma01111/LeetCode/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/suma01111/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/suma01111/LeetCode/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/suma01111/LeetCode/tree/master/0205-isomorphic-strings) |
@@ -378,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/suma01111/LeetCode/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/suma01111/LeetCode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/suma01111/LeetCode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/suma01111/LeetCode/tree/master/0073-set-matrix-zeroes) |
@@ -491,6 +494,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/suma01111/LeetCode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/suma01111/LeetCode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/suma01111/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/suma01111/LeetCode/tree/master/0051-n-queens) |
