@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/suma01111/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2551-apply-operations-to-an-array](https://github.com/suma01111/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/suma01111/LeetCode/tree/master/2564-most-profitable-path-in-a-tree) |
+| [2596-check-knight-tour-configuration](https://github.com/suma01111/LeetCode/tree/master/2596-check-knight-tour-configuration) |
 | [2685-first-completely-painted-row-or-column](https://github.com/suma01111/LeetCode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/suma01111/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/suma01111/LeetCode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
@@ -355,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1876-map-of-highest-peak](https://github.com/suma01111/LeetCode/tree/master/1876-map-of-highest-peak) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/suma01111/LeetCode/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/suma01111/LeetCode/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
+| [2596-check-knight-tour-configuration](https://github.com/suma01111/LeetCode/tree/master/2596-check-knight-tour-configuration) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/suma01111/LeetCode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Graph
 |  |
@@ -394,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1876-map-of-highest-peak](https://github.com/suma01111/LeetCode/tree/master/1876-map-of-highest-peak) |
 | [1975-maximum-matrix-sum](https://github.com/suma01111/LeetCode/tree/master/1975-maximum-matrix-sum) |
 | [2145-grid-game](https://github.com/suma01111/LeetCode/tree/master/2145-grid-game) |
+| [2596-check-knight-tour-configuration](https://github.com/suma01111/LeetCode/tree/master/2596-check-knight-tour-configuration) |
 | [2685-first-completely-painted-row-or-column](https://github.com/suma01111/LeetCode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/suma01111/LeetCode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3227-find-missing-and-repeated-values](https://github.com/suma01111/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
@@ -425,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1558-course-schedule-iv](https://github.com/suma01111/LeetCode/tree/master/1558-course-schedule-iv) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/suma01111/LeetCode/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/suma01111/LeetCode/tree/master/2564-most-profitable-path-in-a-tree) |
+| [2596-check-knight-tour-configuration](https://github.com/suma01111/LeetCode/tree/master/2596-check-knight-tour-configuration) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/suma01111/LeetCode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Union Find
 |  |
@@ -452,6 +456,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2288-count-operations-to-obtain-zero](https://github.com/suma01111/LeetCode/tree/master/2288-count-operations-to-obtain-zero) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/suma01111/LeetCode/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2551-apply-operations-to-an-array](https://github.com/suma01111/LeetCode/tree/master/2551-apply-operations-to-an-array) |
+| [2596-check-knight-tour-configuration](https://github.com/suma01111/LeetCode/tree/master/2596-check-knight-tour-configuration) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/suma01111/LeetCode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/suma01111/LeetCode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3447-clear-digits](https://github.com/suma01111/LeetCode/tree/master/3447-clear-digits) |
