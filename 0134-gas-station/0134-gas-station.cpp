@@ -14,10 +14,11 @@ public:
         //base case
         if(totalGas < totalCost) return -1;
 
+        // unique solution always exists
         int currGas = 0, start =0;
         for(int j=0; j<gas.size();j++){
             currGas += gas[j]-cost[j];
-            if(currGas < 0){
+            if(currGas < 0){ //if gas becomes negative, reset start
                 currGas =0;
                 start = j+1;
             }
