@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/suma01111/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0078-subsets](https://github.com/suma01111/LeetCode/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/suma01111/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0085-maximal-rectangle](https://github.com/suma01111/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0090-subsets-ii](https://github.com/suma01111/LeetCode/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/suma01111/LeetCode/tree/master/0118-pascals-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/suma01111/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/suma01111/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/suma01111/LeetCode/tree/master/0053-maximum-subarray) |
+| [0085-maximal-rectangle](https://github.com/suma01111/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/suma01111/LeetCode/tree/master/0118-pascals-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/suma01111/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0131-palindrome-partitioning](https://github.com/suma01111/LeetCode/tree/master/0131-palindrome-partitioning) |
@@ -393,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/suma01111/LeetCode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/suma01111/LeetCode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/suma01111/LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [0085-maximal-rectangle](https://github.com/suma01111/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0407-trapping-rain-water-ii](https://github.com/suma01111/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0498-diagonal-traverse](https://github.com/suma01111/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0854-making-a-large-island](https://github.com/suma01111/LeetCode/tree/master/0854-making-a-large-island) |
@@ -486,6 +489,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/suma01111/LeetCode/tree/master/0020-valid-parentheses) |
+| [0085-maximal-rectangle](https://github.com/suma01111/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0094-binary-tree-inorder-traversal](https://github.com/suma01111/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/suma01111/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0155-min-stack](https://github.com/suma01111/LeetCode/tree/master/0155-min-stack) |
@@ -583,6 +587,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/suma01111/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0496-next-greater-element-i](https://github.com/suma01111/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/suma01111/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [1628-count-submatrices-with-all-ones](https://github.com/suma01111/LeetCode/tree/master/1628-count-submatrices-with-all-ones) |
