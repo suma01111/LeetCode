@@ -167,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/suma01111/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/suma01111/LeetCode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2792-neighboring-bitwise-xor](https://github.com/suma01111/LeetCode/tree/master/2792-neighboring-bitwise-xor) |
+| [2943-maximize-area-of-square-hole-in-grid](https://github.com/suma01111/LeetCode/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/suma01111/LeetCode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/suma01111/LeetCode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3227-find-missing-and-repeated-values](https://github.com/suma01111/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
@@ -319,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/suma01111/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/suma01111/LeetCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/suma01111/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2943-maximize-area-of-square-hole-in-grid](https://github.com/suma01111/LeetCode/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/suma01111/LeetCode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3748-sort-matrix-by-diagonals](https://github.com/suma01111/LeetCode/tree/master/3748-sort-matrix-by-diagonals) |
 ## Counting
