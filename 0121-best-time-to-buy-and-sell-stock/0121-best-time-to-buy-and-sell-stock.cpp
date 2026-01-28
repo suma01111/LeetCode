@@ -9,7 +9,9 @@ public:
                 buyPrice = prices[i];
             }
             //checks in it iteration
-            profit = max(profit , prices[i]-buyPrice);
+            // profit = max(profit , prices[i]-buyPrice);
+            int currProfit = prices[i]-buyPrice;
+            if(currProfit>profit) profit = currProfit;
         }
         return profit;
     }
