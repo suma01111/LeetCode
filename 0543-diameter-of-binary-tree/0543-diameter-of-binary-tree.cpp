@@ -10,18 +10,25 @@
  * };
  */
 
-class Solution {
+ class Solution {
 public:
-    int ans=0;
-    int h(TreeNode* node){ //height function
-        if(node == nullptr) return 0;
-        int l = h(node->left);
-        int r = h(node->right);
-        ans = max(ans,l+r);
-        return max(l,r)+1;
+    int diameter = 0;
+
+    int height(TreeNode* root) {
+        if (root == NULL) return 0;
+
+        int left = height(root->left);
+        int right = height(root->right);
+
+        // update diameter at this node
+        diameter = max(diameter, left + right);
+
+        // return height
+        return max(left, right) + 1;
     }
+
     int diameterOfBinaryTree(TreeNode* root) {
-        h(root);
-        return ans;
+        height(root);
+        return diameter;
     }
 };
