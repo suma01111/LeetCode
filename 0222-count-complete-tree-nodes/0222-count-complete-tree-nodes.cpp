@@ -12,35 +12,16 @@
 class Solution {
 public:
     int countNodes(TreeNode* root) {
-        if(root==NULL) return 0;
-        
-        int leftHeight = getLeftHeight(root);
-        int rightHeight = getRightHeight(root);
-
-        if (leftHeight == rightHeight) {
-            // Perfect binary tree
-            return (1 << leftHeight) - 1; //2^h -1
-        }
-
-        return 1 + countNodes(root->left) + countNodes(root->right);
+         int cnt =0;
+        inOrder(root, cnt);
+        return cnt;
     }
 
-private:
-    int getLeftHeight(TreeNode* node) {
-        int h = 0;
-        while (node) {
-            h++;
-            node = node->left;
-        }
-        return h;
-    }
+    void inOrder(TreeNode* node, int& cnt){
+        if(node == NULL ) return;
 
-    int getRightHeight(TreeNode* node) {
-        int h = 0;
-        while (node) {
-            h++;
-            node = node->right;
-        }
-        return h;
+        cnt++;
+        inOrder(node->left,cnt);
+        inOrder(node->right,cnt);
     }
 };
