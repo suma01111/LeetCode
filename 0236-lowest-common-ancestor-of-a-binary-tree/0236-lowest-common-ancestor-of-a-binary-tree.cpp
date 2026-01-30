@@ -11,20 +11,20 @@ class Solution {
 public:
     TreeNode* lowestCommonAncestor(TreeNode* root, TreeNode* p, TreeNode* q) {
         //base case 
-        if(root==NULL || root==p || root==q) return root;
+        if(root==NULL || root==p || root==q) return root; //IMO
 
         // store recursion results 
         TreeNode* leftNode = lowestCommonAncestor(root->left, p, q);
         TreeNode* rightNode = lowestCommonAncestor(root->right, p, q);
 
-        if (leftNode == NULL) {
+        if (leftNode == NULL) { //IMO
             return rightNode; //no matter if root.right is value or N, return it 
         }
-        if (rightNode == NULL) {
+        if (rightNode == NULL) { //IMP
             return leftNode;  
         }
         else {
-            return root; //if left and right both are not null return their root
+            return root; 
         }
         
     }
