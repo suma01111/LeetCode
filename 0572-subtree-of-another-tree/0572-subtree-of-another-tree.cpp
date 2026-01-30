@@ -10,7 +10,7 @@
  * };
  */
 class Solution {
-    //first find parent node same of tree and subroot
+    //find first subroot (root node) in tree
 public:
     bool isSubtree(TreeNode* root, TreeNode* subRoot) {
         if(root==NULL) return false;
@@ -20,13 +20,16 @@ public:
         return isSubtree(root->left,subRoot) || isSubtree(root->right, subRoot);
     }
 
-    //check first nonidentical contions and at the if it is identical return true
+    //check identical or not
 public:
     bool isIdentical(TreeNode* node, TreeNode* subRoot){
-        if(node == NULL && subRoot==NULL) return true;
-        if(node==NULL || subRoot==NULL || node->val!=subRoot->val) return false;
+        if(node == NULL || subRoot==NULL) return (node==subRoot);
+        
+        if(node->val != subRoot->val) return false;
+
         if(!isIdentical(node->left,subRoot->left)) return false;
         if(!isIdentical(node->right,subRoot->right)) return false;
+
         return true;
     }    
 };
