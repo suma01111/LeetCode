@@ -201,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/suma01111/LeetCode/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3637-trionic-array-i](https://github.com/suma01111/LeetCode/tree/master/3637-trionic-array-i) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/suma01111/LeetCode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
+| [3719-longest-balanced-subarray-i](https://github.com/suma01111/LeetCode/tree/master/3719-longest-balanced-subarray-i) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/suma01111/LeetCode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3748-sort-matrix-by-diagonals](https://github.com/suma01111/LeetCode/tree/master/3748-sort-matrix-by-diagonals) |
 | [3790-fruits-into-baskets-ii](https://github.com/suma01111/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
@@ -247,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3227-find-missing-and-repeated-values](https://github.com/suma01111/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/suma01111/LeetCode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/suma01111/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3719-longest-balanced-subarray-i](https://github.com/suma01111/LeetCode/tree/master/3719-longest-balanced-subarray-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/suma01111/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/suma01111/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Dynamic Programming
@@ -339,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/suma01111/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/suma01111/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/suma01111/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [3719-longest-balanced-subarray-i](https://github.com/suma01111/LeetCode/tree/master/3719-longest-balanced-subarray-i) |
 ## Sorting
 |  |
 | ------- |
@@ -389,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/suma01111/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1856-maximum-subarray-min-product](https://github.com/suma01111/LeetCode/tree/master/1856-maximum-subarray-min-product) |
 | [2145-grid-game](https://github.com/suma01111/LeetCode/tree/master/2145-grid-game) |
+| [3719-longest-balanced-subarray-i](https://github.com/suma01111/LeetCode/tree/master/3719-longest-balanced-subarray-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -759,6 +763,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Segment Tree
 |  |
 | ------- |
+| [3719-longest-balanced-subarray-i](https://github.com/suma01111/LeetCode/tree/master/3719-longest-balanced-subarray-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/suma01111/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/suma01111/LeetCode/tree/master/3791-fruits-into-baskets-iii) |
 ## Hash Function
