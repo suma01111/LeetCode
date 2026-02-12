@@ -1,3 +1,4 @@
+//by me 
 class Solution {
 public:
     bool isFreq(int freq1[], int freq2[]){
