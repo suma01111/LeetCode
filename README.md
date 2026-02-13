@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/suma01111/LeetCode/tree/master/0268-missing-number) |
 | [0633-sum-of-square-numbers](https://github.com/suma01111/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [1018-largest-perimeter-triangle](https://github.com/suma01111/LeetCode/tree/master/1018-largest-perimeter-triangle) |
+| [1248-count-number-of-nice-subarrays](https://github.com/suma01111/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1266-minimum-time-visiting-all-points](https://github.com/suma01111/LeetCode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/suma01111/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/suma01111/LeetCode/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1018-largest-perimeter-triangle](https://github.com/suma01111/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1200-minimum-absolute-difference](https://github.com/suma01111/LeetCode/tree/master/1200-minimum-absolute-difference) |
 | [1207-unique-number-of-occurrences](https://github.com/suma01111/LeetCode/tree/master/1207-unique-number-of-occurrences) |
+| [1248-count-number-of-nice-subarrays](https://github.com/suma01111/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1266-minimum-time-visiting-all-points](https://github.com/suma01111/LeetCode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/suma01111/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1364-tuple-with-same-product](https://github.com/suma01111/LeetCode/tree/master/1364-tuple-with-same-product) |
@@ -248,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-fruit-into-baskets](https://github.com/suma01111/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [1160-letter-tile-possibilities](https://github.com/suma01111/LeetCode/tree/master/1160-letter-tile-possibilities) |
 | [1207-unique-number-of-occurrences](https://github.com/suma01111/LeetCode/tree/master/1207-unique-number-of-occurrences) |
+| [1248-count-number-of-nice-subarrays](https://github.com/suma01111/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/suma01111/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/suma01111/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1364-tuple-with-same-product](https://github.com/suma01111/LeetCode/tree/master/1364-tuple-with-same-product) |
@@ -415,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/suma01111/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/suma01111/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/suma01111/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [1248-count-number-of-nice-subarrays](https://github.com/suma01111/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1477-product-of-the-last-k-numbers](https://github.com/suma01111/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/suma01111/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1856-maximum-subarray-min-product](https://github.com/suma01111/LeetCode/tree/master/1856-maximum-subarray-min-product) |
@@ -732,6 +736,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/suma01111/LeetCode/tree/master/0567-permutation-in-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/suma01111/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0940-fruit-into-baskets](https://github.com/suma01111/LeetCode/tree/master/0940-fruit-into-baskets) |
+| [1248-count-number-of-nice-subarrays](https://github.com/suma01111/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/suma01111/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/suma01111/LeetCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/suma01111/LeetCode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
