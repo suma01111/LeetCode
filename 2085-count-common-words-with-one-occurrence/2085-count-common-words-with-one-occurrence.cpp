@@ -10,7 +10,7 @@ public:
 
         int cnt=0;
         for(auto it : m1){
-            if(m1[it.first] ==1 && m2[it.first]==1) cnt++;
+            if(it.second ==1 && m2[it.first]==1) cnt++;
         }
         return cnt;
     }
