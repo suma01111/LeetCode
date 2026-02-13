@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/suma01111/LeetCode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/suma01111/LeetCode/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/suma01111/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0217-contains-duplicate](https://github.com/suma01111/LeetCode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/suma01111/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/suma01111/LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/suma01111/LeetCode/tree/master/0287-find-the-duplicate-number) |
@@ -230,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/suma01111/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0169-majority-element](https://github.com/suma01111/LeetCode/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/suma01111/LeetCode/tree/master/0205-isomorphic-strings) |
+| [0217-contains-duplicate](https://github.com/suma01111/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/suma01111/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/suma01111/LeetCode/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/suma01111/LeetCode/tree/master/0290-word-pattern) |
@@ -378,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/suma01111/LeetCode/tree/master/0056-merge-intervals) |
 | [0169-majority-element](https://github.com/suma01111/LeetCode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/suma01111/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0217-contains-duplicate](https://github.com/suma01111/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/suma01111/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/suma01111/LeetCode/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/suma01111/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
