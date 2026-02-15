@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/suma01111/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/suma01111/LeetCode/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/suma01111/LeetCode/tree/master/0048-rotate-image) |
+| [0067-add-binary](https://github.com/suma01111/LeetCode/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/suma01111/LeetCode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/suma01111/LeetCode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/suma01111/LeetCode/tree/master/0231-power-of-two) |
@@ -319,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/suma01111/LeetCode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/suma01111/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/suma01111/LeetCode/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/suma01111/LeetCode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/suma01111/LeetCode/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/suma01111/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/suma01111/LeetCode/tree/master/0151-reverse-words-in-a-string) |
@@ -448,6 +450,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/suma01111/LeetCode/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/suma01111/LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/suma01111/LeetCode/tree/master/0090-subsets-ii) |
 | [0191-number-of-1-bits](https://github.com/suma01111/LeetCode/tree/master/0191-number-of-1-bits) |
@@ -594,6 +597,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/suma01111/LeetCode/tree/master/0054-spiral-matrix) |
+| [0067-add-binary](https://github.com/suma01111/LeetCode/tree/master/0067-add-binary) |
 | [0498-diagonal-traverse](https://github.com/suma01111/LeetCode/tree/master/0498-diagonal-traverse) |
 | [1389-create-target-array-in-the-given-order](https://github.com/suma01111/LeetCode/tree/master/1389-create-target-array-in-the-given-order) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/suma01111/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
