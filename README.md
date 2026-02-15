@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/suma01111/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/suma01111/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0908-middle-of-the-linked-list](https://github.com/suma01111/LeetCode/tree/master/0908-middle-of-the-linked-list) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/suma01111/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/suma01111/LeetCode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/suma01111/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/suma01111/LeetCode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/suma01111/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0633-sum-of-square-numbers](https://github.com/suma01111/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/suma01111/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/suma01111/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1646-kth-missing-positive-number](https://github.com/suma01111/LeetCode/tree/master/1646-kth-missing-positive-number) |
 | [3453-separate-squares-i](https://github.com/suma01111/LeetCode/tree/master/3453-separate-squares-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/suma01111/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
@@ -167,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1207-unique-number-of-occurrences](https://github.com/suma01111/LeetCode/tree/master/1207-unique-number-of-occurrences) |
 | [1248-count-number-of-nice-subarrays](https://github.com/suma01111/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1266-minimum-time-visiting-all-points](https://github.com/suma01111/LeetCode/tree/master/1266-minimum-time-visiting-all-points) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/suma01111/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/suma01111/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1364-tuple-with-same-product](https://github.com/suma01111/LeetCode/tree/master/1364-tuple-with-same-product) |
 | [1389-create-target-array-in-the-given-order](https://github.com/suma01111/LeetCode/tree/master/1389-create-target-array-in-the-given-order) |
@@ -261,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1160-letter-tile-possibilities](https://github.com/suma01111/LeetCode/tree/master/1160-letter-tile-possibilities) |
 | [1207-unique-number-of-occurrences](https://github.com/suma01111/LeetCode/tree/master/1207-unique-number-of-occurrences) |
 | [1248-count-number-of-nice-subarrays](https://github.com/suma01111/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/suma01111/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/suma01111/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/suma01111/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1364-tuple-with-same-product](https://github.com/suma01111/LeetCode/tree/master/1364-tuple-with-same-product) |
@@ -400,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0876-hand-of-straights](https://github.com/suma01111/LeetCode/tree/master/0876-hand-of-straights) |
 | [1018-largest-perimeter-triangle](https://github.com/suma01111/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1200-minimum-absolute-difference](https://github.com/suma01111/LeetCode/tree/master/1200-minimum-absolute-difference) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/suma01111/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/suma01111/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/suma01111/LeetCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/suma01111/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
