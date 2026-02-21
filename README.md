@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/suma01111/LeetCode/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/suma01111/LeetCode/tree/master/0268-missing-number) |
 | [0633-sum-of-square-numbers](https://github.com/suma01111/LeetCode/tree/master/0633-sum-of-square-numbers) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/suma01111/LeetCode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1018-largest-perimeter-triangle](https://github.com/suma01111/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1248-count-number-of-nice-subarrays](https://github.com/suma01111/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1266-minimum-time-visiting-all-points](https://github.com/suma01111/LeetCode/tree/master/1266-minimum-time-visiting-all-points) |
@@ -465,6 +466,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/suma01111/LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/suma01111/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0693-binary-number-with-alternating-bits](https://github.com/suma01111/LeetCode/tree/master/0693-binary-number-with-alternating-bits) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/suma01111/LeetCode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [2351-first-letter-to-appear-twice](https://github.com/suma01111/LeetCode/tree/master/2351-first-letter-to-appear-twice) |
 | [2792-neighboring-bitwise-xor](https://github.com/suma01111/LeetCode/tree/master/2792-neighboring-bitwise-xor) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/suma01111/LeetCode/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
