@@ -581,6 +581,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0783-minimum-distance-between-bst-nodes](https://github.com/suma01111/LeetCode/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0820-find-eventual-safe-states](https://github.com/suma01111/LeetCode/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/suma01111/LeetCode/tree/master/0854-making-a-large-island) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/suma01111/LeetCode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/suma01111/LeetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/suma01111/LeetCode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/suma01111/LeetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -722,6 +723,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0789-kth-largest-element-in-a-stream](https://github.com/suma01111/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/suma01111/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/suma01111/LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/suma01111/LeetCode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/suma01111/LeetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/suma01111/LeetCode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/suma01111/LeetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -757,6 +759,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0789-kth-largest-element-in-a-stream](https://github.com/suma01111/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/suma01111/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/suma01111/LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/suma01111/LeetCode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/suma01111/LeetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/suma01111/LeetCode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/suma01111/LeetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
