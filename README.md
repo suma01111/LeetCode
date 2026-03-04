@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/suma01111/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/suma01111/LeetCode/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/suma01111/LeetCode/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/suma01111/LeetCode/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/suma01111/LeetCode/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/suma01111/LeetCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/suma01111/LeetCode/tree/master/0202-happy-number) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/suma01111/LeetCode/tree/master/0002-add-two-numbers) |
+| [0050-powx-n](https://github.com/suma01111/LeetCode/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/suma01111/LeetCode/tree/master/0231-power-of-two) |
 ## Two Pointers
 |  |
