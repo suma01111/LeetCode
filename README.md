@@ -360,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/suma01111/LeetCode/tree/master/0567-permutation-in-string) |
 | [0812-rotate-string](https://github.com/suma01111/LeetCode/tree/master/0812-rotate-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/suma01111/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1061-lexicographically-smallest-equivalent-string](https://github.com/suma01111/LeetCode/tree/master/1061-lexicographically-smallest-equivalent-string) |
 | [1078-remove-outermost-parentheses](https://github.com/suma01111/LeetCode/tree/master/1078-remove-outermost-parentheses) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/suma01111/LeetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1143-longest-common-subsequence](https://github.com/suma01111/LeetCode/tree/master/1143-longest-common-subsequence) |
@@ -918,6 +919,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/suma01111/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+| [1061-lexicographically-smallest-equivalent-string](https://github.com/suma01111/LeetCode/tree/master/1061-lexicographically-smallest-equivalent-string) |
 ## Concurrency
 |  |
 | ------- |
