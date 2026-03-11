@@ -504,6 +504,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/suma01111/LeetCode/tree/master/0338-counting-bits) |
 | [0693-binary-number-with-alternating-bits](https://github.com/suma01111/LeetCode/tree/master/0693-binary-number-with-alternating-bits) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/suma01111/LeetCode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [1009-complement-of-base-10-integer](https://github.com/suma01111/LeetCode/tree/master/1009-complement-of-base-10-integer) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/suma01111/LeetCode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/suma01111/LeetCode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [2351-first-letter-to-appear-twice](https://github.com/suma01111/LeetCode/tree/master/2351-first-letter-to-appear-twice) |
