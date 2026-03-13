@@ -29,7 +29,7 @@ public:
         long long totalHeight = 0; //height
         for(int t : workerTimes){
             //sum of all reducinh height of worker at midTime
-            totalHeight += (long long)(sqrt((2.0 * midTime) / t + 0.25) - 0.5);
+            totalHeight += (sqrt((2.0 * midTime) / t + 0.25) - 0.5);
  
 
             if(totalHeight>=mountainHeight) return true; 
