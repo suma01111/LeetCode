@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/suma01111/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/suma01111/LeetCode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/suma01111/LeetCode/tree/master/1817-calculate-money-in-leetcode-bank) |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/suma01111/LeetCode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/suma01111/LeetCode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1922-count-good-numbers](https://github.com/suma01111/LeetCode/tree/master/1922-count-good-numbers) |
 | [1925-count-square-sum-triples](https://github.com/suma01111/LeetCode/tree/master/1925-count-square-sum-triples) |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1856-maximum-subarray-min-product](https://github.com/suma01111/LeetCode/tree/master/1856-maximum-subarray-min-product) |
 | [1876-map-of-highest-peak](https://github.com/suma01111/LeetCode/tree/master/1876-map-of-highest-peak) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/suma01111/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/suma01111/LeetCode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/suma01111/LeetCode/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1975-maximum-matrix-sum](https://github.com/suma01111/LeetCode/tree/master/1975-maximum-matrix-sum) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/suma01111/LeetCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -465,6 +467,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1200-minimum-absolute-difference](https://github.com/suma01111/LeetCode/tree/master/1200-minimum-absolute-difference) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/suma01111/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/suma01111/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/suma01111/LeetCode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/suma01111/LeetCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/suma01111/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/suma01111/LeetCode/tree/master/2943-maximize-area-of-square-hole-in-grid) |
@@ -503,6 +506,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-product-of-the-last-k-numbers](https://github.com/suma01111/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/suma01111/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1856-maximum-subarray-min-product](https://github.com/suma01111/LeetCode/tree/master/1856-maximum-subarray-min-product) |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/suma01111/LeetCode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2145-grid-game](https://github.com/suma01111/LeetCode/tree/master/2145-grid-game) |
 | [3719-longest-balanced-subarray-i](https://github.com/suma01111/LeetCode/tree/master/3719-longest-balanced-subarray-i) |
 ## Bit Manipulation
@@ -577,6 +581,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0703-kth-largest-element-in-a-stream](https://github.com/suma01111/LeetCode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/suma01111/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/suma01111/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/suma01111/LeetCode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2434-design-a-number-container-system](https://github.com/suma01111/LeetCode/tree/master/2434-design-a-number-container-system) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/suma01111/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/suma01111/LeetCode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
@@ -600,6 +605,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1582-special-positions-in-a-binary-matrix](https://github.com/suma01111/LeetCode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1628-count-submatrices-with-all-ones](https://github.com/suma01111/LeetCode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1876-map-of-highest-peak](https://github.com/suma01111/LeetCode/tree/master/1876-map-of-highest-peak) |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/suma01111/LeetCode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1975-maximum-matrix-sum](https://github.com/suma01111/LeetCode/tree/master/1975-maximum-matrix-sum) |
 | [2145-grid-game](https://github.com/suma01111/LeetCode/tree/master/2145-grid-game) |
 | [2596-check-knight-tour-configuration](https://github.com/suma01111/LeetCode/tree/master/2596-check-knight-tour-configuration) |
