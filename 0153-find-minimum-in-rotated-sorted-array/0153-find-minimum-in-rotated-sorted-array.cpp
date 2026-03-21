@@ -7,7 +7,7 @@ public:
         while(l<r){
             int mid = l+(r-l)/2 ;
 
-            if(nums[mid] <= nums[r]) r = mid;
+            if(nums[mid] <= nums[r]) r = mid; //IMP
             else l = mid+1;
         }
         return nums[l];
