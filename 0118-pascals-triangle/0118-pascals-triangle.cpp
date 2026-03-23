@@ -16,6 +16,8 @@ public:
         return ans;
     }
 
+
+
     vector<vector<int>> generate(int numRows) {
         vector<vector<int>> result;
 
