@@ -2,23 +2,32 @@ class Solution {
 public:
     void nextPermutation(vector<int>& nums) {
         int n = nums.size();
-        int ind =-1;
+        int idx =-1;
+
+        //step1: find breaking pt, mark idx
         for(int i=n-2;i>=0;i--){
             if(nums[i]<nums[i+1]){
-                ind = i;
+                idx=i;
                 break;
             }
         }
-        if(ind == -1){
-            reverse(nums.begin(),nums.end());
+
+        //base case, all nums are in decreasing order so restart
+        if(idx==-1){
+            reverse(nums.begin(),nums.end()); 
             return;
+            
         }
+
+        //step2 : get someone > nums[idx] but the smallest one , and SWAP
         for(int i=n-1;i>=0;i--){
-            if(nums[i]>nums[ind]){
-                swap(nums[i],nums[ind]);
+            if(nums[i]>nums[idx]){
+                swap(nums[i],nums[idx]);
                 break;
             }
         }
-        reverse(nums.begin()+ind+1,nums.end());
+
+        //step3: reverse idx+1 -> n 
+        reverse(nums.begin()+idx+1 , nums.end());
     }
 };
