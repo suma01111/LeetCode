@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/suma01111/LeetCode/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/suma01111/LeetCode/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/suma01111/LeetCode/tree/master/0268-missing-number) |
+| [0342-power-of-four](https://github.com/suma01111/LeetCode/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/suma01111/LeetCode/tree/master/0412-fizz-buzz) |
 | [0633-sum-of-square-numbers](https://github.com/suma01111/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/suma01111/LeetCode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/suma01111/LeetCode/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/suma01111/LeetCode/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/suma01111/LeetCode/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/suma01111/LeetCode/tree/master/0342-power-of-four) |
 | [1922-count-good-numbers](https://github.com/suma01111/LeetCode/tree/master/1922-count-good-numbers) |
 ## Two Pointers
 |  |
@@ -552,6 +554,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/suma01111/LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/suma01111/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/suma01111/LeetCode/tree/master/0338-counting-bits) |
+| [0342-power-of-four](https://github.com/suma01111/LeetCode/tree/master/0342-power-of-four) |
 | [0693-binary-number-with-alternating-bits](https://github.com/suma01111/LeetCode/tree/master/0693-binary-number-with-alternating-bits) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/suma01111/LeetCode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1009-complement-of-base-10-integer](https://github.com/suma01111/LeetCode/tree/master/1009-complement-of-base-10-integer) |
