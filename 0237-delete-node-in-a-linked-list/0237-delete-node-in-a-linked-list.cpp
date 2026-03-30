@@ -9,11 +9,12 @@
 class Solution {
 public:
     void deleteNode(ListNode* node) {
-        // Overwrite data of next node on current node.
-        node->val = node->next->val;
+        //shifting/updating value of node from its next node
+        node->val = node->next->val;  
 
-        // Make current node point to next of next node.
+        ListNode* temp = node->next;
         node->next = node->next->next;
 
+        delete temp;
     }
 };
