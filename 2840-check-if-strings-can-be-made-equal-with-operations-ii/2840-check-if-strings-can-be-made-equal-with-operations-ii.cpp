@@ -1,29 +1,25 @@
-//optimal , by me 
-//IMP is checking even flag then going to odd idex
+//sub02 : arnab
 
-class Solution {
+class Solution{
 public:
-    bool checkStrings(string s1, string s2) {
-        unordered_map<int,int> m1; //char , freq
-        unordered_map<int,int> m2;
+    bool checkStrings(string s1,string s2) {
+        int n = s1.size(); 
+        vector<int> cnt(26);
 
-        for(int i=0;i<s1.size();i=i+2){ //even
-            m1[s1[i]]++;
-            m2[s2[i]]++;
+        for(int i=0;i<n;i+=2) cnt[s1[i]-'a']++;
+        for(int i=0;i<n;i+=2) cnt[s2[i]-'a']--;
+
+        for(auto x : cnt){
+            if(x) return false;
         }
 
-        bool even = false;
-        if(m1==m2) even = true; //IMP
+        for(int i=1;i<n;i+=2) cnt[s1[i]-'a']++;
+        for(int i=1;i<n;i+=2) cnt[s2[i]-'a']--;
 
-
-        if(even){
-            for(int i=1;i<s1.size();i+=2){ //IMP
-                m1[s1[i]]++;
-                m2[s2[i]]++;
-            }
-            if(m1==m2) return true;
+        for(auto x: cnt){
+            if(x) return false;
         }
-        
-        return false;
+            
+        return true;
     }
 };
