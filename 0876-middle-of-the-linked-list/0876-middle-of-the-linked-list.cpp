@@ -1,3 +1,5 @@
+//by me : TC=O(2N), SC=O(1)
+
 /**
  * Definition for singly-linked list.
  * struct ListNode {
