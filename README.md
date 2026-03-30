@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/suma01111/LeetCode/tree/master/0002-add-two-numbers) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/suma01111/LeetCode/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0206-reverse-linked-list](https://github.com/suma01111/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/suma01111/LeetCode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/suma01111/LeetCode/tree/master/0328-odd-even-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/suma01111/LeetCode/tree/master/0908-middle-of-the-linked-list) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/suma01111/LeetCode/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/suma01111/LeetCode/tree/master/0050-powx-n) |
+| [0206-reverse-linked-list](https://github.com/suma01111/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/suma01111/LeetCode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/suma01111/LeetCode/tree/master/0342-power-of-four) |
 | [1922-count-good-numbers](https://github.com/suma01111/LeetCode/tree/master/1922-count-good-numbers) |
