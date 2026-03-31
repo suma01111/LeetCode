@@ -447,6 +447,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/suma01111/LeetCode/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/suma01111/LeetCode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3447-clear-digits](https://github.com/suma01111/LeetCode/tree/master/3447-clear-digits) |
+| [3474-lexicographically-smallest-generated-string](https://github.com/suma01111/LeetCode/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3617-find-the-original-typed-string-i](https://github.com/suma01111/LeetCode/tree/master/3617-find-the-original-typed-string-i) |
 | [3713-longest-balanced-substring-i](https://github.com/suma01111/LeetCode/tree/master/3713-longest-balanced-substring-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/suma01111/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
@@ -470,6 +471,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2032-largest-odd-number-in-string](https://github.com/suma01111/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/suma01111/LeetCode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/suma01111/LeetCode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3474-lexicographically-smallest-generated-string](https://github.com/suma01111/LeetCode/tree/master/3474-lexicographically-smallest-generated-string) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -969,6 +971,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/suma01111/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0572-subtree-of-another-tree](https://github.com/suma01111/LeetCode/tree/master/0572-subtree-of-another-tree) |
 | [0812-rotate-string](https://github.com/suma01111/LeetCode/tree/master/0812-rotate-string) |
+| [3474-lexicographically-smallest-generated-string](https://github.com/suma01111/LeetCode/tree/master/3474-lexicographically-smallest-generated-string) |
 ## Bucket Sort
 |  |
 | ------- |
