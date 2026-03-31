@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/suma01111/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [0908-middle-of-the-linked-list](https://github.com/suma01111/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/suma01111/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/suma01111/LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/suma01111/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/suma01111/LeetCode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/suma01111/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -230,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/suma01111/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/suma01111/LeetCode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1646-kth-missing-positive-number](https://github.com/suma01111/LeetCode/tree/master/1646-kth-missing-positive-number) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/suma01111/LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/suma01111/LeetCode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/suma01111/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/suma01111/LeetCode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
@@ -340,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1364-tuple-with-same-product](https://github.com/suma01111/LeetCode/tree/master/1364-tuple-with-same-product) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/suma01111/LeetCode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/suma01111/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/suma01111/LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/suma01111/LeetCode/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/suma01111/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/suma01111/LeetCode/tree/master/2085-count-common-words-with-one-occurrence) |
@@ -515,6 +518,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1200-minimum-absolute-difference](https://github.com/suma01111/LeetCode/tree/master/1200-minimum-absolute-difference) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/suma01111/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/suma01111/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/suma01111/LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/suma01111/LeetCode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/suma01111/LeetCode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/suma01111/LeetCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
