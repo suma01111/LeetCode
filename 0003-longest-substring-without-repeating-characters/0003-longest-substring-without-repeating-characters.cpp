@@ -1,24 +1,25 @@
+//more optimal then hashmap (little more)
+//unordered_map → slower (hashing)
+//Array → O(1) direct access, faster in practice
+
 class Solution {
 public:
     int lengthOfLongestSubstring(string s) {
-        unordered_map<char,int> m;
+        vector<int> lastIndex(256, -1); // ASCII
 
-        int l=0, r=0;
-        int maxLen=0;
+        int l = 0;
+        int maxLen = 0;
 
-        while(r < s.size()){
-        if(m.find(s[r]) == m.end()){
-            m[s[r]] = r;
+        for(int r = 0; r < s.size(); r++) {
+            if(lastIndex[s[r]] != -1) {
+                l = max(l, lastIndex[s[r]] + 1);
+            }
+
+            lastIndex[s[r]] = r;
+            maxLen = max(maxLen, r - l + 1);
         }
-        else{
-            l = max(l, m[s[r]] + 1);
-            m[s[r]] = r;
-        }
-        
-        maxLen = max(maxLen, r - l + 1); // Always update
-        r++;
-        }
-        
+
         return maxLen;
     }
 };
+
