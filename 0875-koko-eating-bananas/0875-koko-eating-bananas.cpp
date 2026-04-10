@@ -1,12 +1,18 @@
 class Solution {
 
 public:
-    long long ceil(vector<int>& piles, int h, int mid, long long cnt){
+    bool ceil(vector<int>& piles, int h, int mid, int cnt){
         for(int i=0;i<piles.size();i++){
-            cnt += ((long long)piles[i] + mid - 1) / mid; //piles[i]% mid;NOT THIS
+            cnt += piles[i] / mid; //give you divisor
+
+            if(piles[i]%mid !=0) cnt++; 
+            //% give you remainder (if R is thier then add 1)
+
+            if(cnt > h) return false; //IMP, will help to avoid overflow
         }
-        return cnt;
+        return cnt <= h;
     }
+
 
 public:
     int minEatingSpeed(vector<int>& piles, int h) {
@@ -16,12 +22,10 @@ public:
         while(l<=r){
             int mid = l+(r-l)/2;
 
-            long long hours = ceil(piles,h,mid,0);//IMPP
-
-            if(hours > h){
-                l=mid+1;
+            if(ceil(piles,h,mid,0)){ //IMP, if true, cnt <=h
+                r=mid-1;
             }
-            else r=mid-1; 
+            else l=mid+1; 
         }
 
         return l;
