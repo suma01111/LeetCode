@@ -1,38 +1,44 @@
+//Optimal BS ->. TC = O(log(min(m,n)))  SC= O(1) , IMPPP
 class Solution {
 public:
     double findMedianSortedArrays(vector<int>& nums1, vector<int>& nums2) {
-        int m=nums1.size();
+
+        if(nums1.size() > nums2.size()) {//num1 size should be less then num2
+            return findMedianSortedArrays(nums2,nums1); //IMPP
+            }
+
+        int m = nums1.size();
         int n=nums2.size();
-        vector<int> ans;
-        
-        int i=0,j=0;
-        while(i<m && j<n){
-            if(nums1[i]>nums2[j]){
-                ans.push_back(nums2[j]);
-                j++;
-            }
+
+        int l=0, h=m; //IMPP
+        while(l<=h){
+            int Px = l+(h-l)/2 ; //mid.. nums1 partion till mid indx, X1
+            int Py = (m+n+1)/2 - Px ; //nums2 partion, X2
+
+            //left half
+            int x1  = (Px == 0) ? INT_MIN : nums1[Px-1];
+            int x3 = (Px == m) ? INT_MAX : nums1[Px];
+            
+            //right half
+            int x2  = (Py == 0) ? INT_MIN : nums2[Py-1];
+            int x4 = (Py == n) ? INT_MAX : nums2[Py];
+            
+            if(x1 <= x4 && x2 <= x3) { //median
+                if((m+n)%2 == 0)
+                    return (max(x1, x2) + min(x3, x4))/2.0; 
+                else return max(x1, x2);
+
+            } 
+            else if(x1 > x4) {
+                h = Px-1;
+            } 
             else {
-                ans.push_back(nums1[i]);
-                i++;
+                l = Px+1;
             }
+
+
         }
 
-        //remaining
-        while(i<m){
-            ans.push_back(nums1[i]);
-            i++;
-        }
-        while(j<n){
-            ans.push_back(nums2[j]); 
-            j++;
-        }
-
-
-        int s = ans.size();
-        double N=0;
-        if(s%2==1) N = ans[s/2]; //odd
-        else N = (ans[s/2]+ans[s/2 - 1]) / 2.00; //even
-
-        return N;
+        return -1 ;
     }
 };
