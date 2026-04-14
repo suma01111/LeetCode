@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/suma01111/LeetCode/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/suma01111/LeetCode/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/suma01111/LeetCode/tree/master/0412-fizz-buzz) |
+| [0556-next-greater-element-iii](https://github.com/suma01111/LeetCode/tree/master/0556-next-greater-element-iii) |
 | [0633-sum-of-square-numbers](https://github.com/suma01111/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/suma01111/LeetCode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1018-largest-perimeter-triangle](https://github.com/suma01111/LeetCode/tree/master/1018-largest-perimeter-triangle) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/suma01111/LeetCode/tree/master/0443-string-compression) |
 | [0455-assign-cookies](https://github.com/suma01111/LeetCode/tree/master/0455-assign-cookies) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/suma01111/LeetCode/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0556-next-greater-element-iii](https://github.com/suma01111/LeetCode/tree/master/0556-next-greater-element-iii) |
 | [0567-permutation-in-string](https://github.com/suma01111/LeetCode/tree/master/0567-permutation-in-string) |
 | [0633-sum-of-square-numbers](https://github.com/suma01111/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/suma01111/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -459,6 +461,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/suma01111/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0443-string-compression](https://github.com/suma01111/LeetCode/tree/master/0443-string-compression) |
 | [0451-sort-characters-by-frequency](https://github.com/suma01111/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+| [0556-next-greater-element-iii](https://github.com/suma01111/LeetCode/tree/master/0556-next-greater-element-iii) |
 | [0567-permutation-in-string](https://github.com/suma01111/LeetCode/tree/master/0567-permutation-in-string) |
 | [0657-robot-return-to-origin](https://github.com/suma01111/LeetCode/tree/master/0657-robot-return-to-origin) |
 | [0812-rotate-string](https://github.com/suma01111/LeetCode/tree/master/0812-rotate-string) |
