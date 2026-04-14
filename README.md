@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/suma01111/LeetCode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/suma01111/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/suma01111/LeetCode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
+| [2540-minimum-common-value](https://github.com/suma01111/LeetCode/tree/master/2540-minimum-common-value) |
 | [2551-apply-operations-to-an-array](https://github.com/suma01111/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/suma01111/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3643-flip-square-submatrix-vertically](https://github.com/suma01111/LeetCode/tree/master/3643-flip-square-submatrix-vertically) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/suma01111/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/suma01111/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1646-kth-missing-positive-number](https://github.com/suma01111/LeetCode/tree/master/1646-kth-missing-positive-number) |
+| [2540-minimum-common-value](https://github.com/suma01111/LeetCode/tree/master/2540-minimum-common-value) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/suma01111/LeetCode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3453-separate-squares-i](https://github.com/suma01111/LeetCode/tree/master/3453-separate-squares-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/suma01111/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
@@ -287,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2432-number-of-zero-filled-subarrays](https://github.com/suma01111/LeetCode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2448-count-number-of-bad-pairs](https://github.com/suma01111/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/suma01111/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2540-minimum-common-value](https://github.com/suma01111/LeetCode/tree/master/2540-minimum-common-value) |
 | [2551-apply-operations-to-an-array](https://github.com/suma01111/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/suma01111/LeetCode/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2596-check-knight-tour-configuration](https://github.com/suma01111/LeetCode/tree/master/2596-check-knight-tour-configuration) |
@@ -391,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2434-design-a-number-container-system](https://github.com/suma01111/LeetCode/tree/master/2434-design-a-number-container-system) |
 | [2448-count-number-of-bad-pairs](https://github.com/suma01111/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/suma01111/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2540-minimum-common-value](https://github.com/suma01111/LeetCode/tree/master/2540-minimum-common-value) |
 | [2685-first-completely-painted-row-or-column](https://github.com/suma01111/LeetCode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/suma01111/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/suma01111/LeetCode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
