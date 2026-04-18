@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3227-find-missing-and-repeated-values](https://github.com/suma01111/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/suma01111/LeetCode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/suma01111/LeetCode/tree/master/3676-smallest-number-with-all-set-bits) |
+| [3783-mirror-distance-of-an-integer](https://github.com/suma01111/LeetCode/tree/master/3783-mirror-distance-of-an-integer) |
 | [3830-find-closest-person](https://github.com/suma01111/LeetCode/tree/master/3830-find-closest-person) |
 | [3875-construct-uniform-parity-array-i](https://github.com/suma01111/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Recursion
