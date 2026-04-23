@@ -297,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2551-apply-operations-to-an-array](https://github.com/suma01111/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/suma01111/LeetCode/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2596-check-knight-tour-configuration](https://github.com/suma01111/LeetCode/tree/master/2596-check-knight-tour-configuration) |
+| [2615-sum-of-distances](https://github.com/suma01111/LeetCode/tree/master/2615-sum-of-distances) |
 | [2685-first-completely-painted-row-or-column](https://github.com/suma01111/LeetCode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/suma01111/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/suma01111/LeetCode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
@@ -399,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2448-count-number-of-bad-pairs](https://github.com/suma01111/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/suma01111/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2540-minimum-common-value](https://github.com/suma01111/LeetCode/tree/master/2540-minimum-common-value) |
+| [2615-sum-of-distances](https://github.com/suma01111/LeetCode/tree/master/2615-sum-of-distances) |
 | [2685-first-completely-painted-row-or-column](https://github.com/suma01111/LeetCode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/suma01111/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/suma01111/LeetCode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
@@ -626,6 +628,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1856-maximum-subarray-min-product](https://github.com/suma01111/LeetCode/tree/master/1856-maximum-subarray-min-product) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/suma01111/LeetCode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2145-grid-game](https://github.com/suma01111/LeetCode/tree/master/2145-grid-game) |
+| [2615-sum-of-distances](https://github.com/suma01111/LeetCode/tree/master/2615-sum-of-distances) |
 | [2906-construct-product-matrix](https://github.com/suma01111/LeetCode/tree/master/2906-construct-product-matrix) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/suma01111/LeetCode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3546-equal-sum-grid-partition-i](https://github.com/suma01111/LeetCode/tree/master/3546-equal-sum-grid-partition-i) |
