@@ -265,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1389-create-target-array-in-the-given-order](https://github.com/suma01111/LeetCode/tree/master/1389-create-target-array-in-the-given-order) |
 | [1396-count-servers-that-communicate](https://github.com/suma01111/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/suma01111/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/suma01111/LeetCode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1477-product-of-the-last-k-numbers](https://github.com/suma01111/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/suma01111/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/suma01111/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
