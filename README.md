@@ -316,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2685-first-completely-painted-row-or-column](https://github.com/suma01111/LeetCode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/suma01111/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/suma01111/LeetCode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
+| [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/suma01111/LeetCode/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2792-neighboring-bitwise-xor](https://github.com/suma01111/LeetCode/tree/master/2792-neighboring-bitwise-xor) |
 | [2906-construct-product-matrix](https://github.com/suma01111/LeetCode/tree/master/2906-construct-product-matrix) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/suma01111/LeetCode/tree/master/2943-maximize-area-of-square-hole-in-grid) |
@@ -462,6 +463,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/suma01111/LeetCode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/suma01111/LeetCode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/suma01111/LeetCode/tree/master/2408-number-of-people-aware-of-a-secret) |
+| [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/suma01111/LeetCode/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/suma01111/LeetCode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3660-jump-game-ix](https://github.com/suma01111/LeetCode/tree/master/3660-jump-game-ix) |
 ## String
