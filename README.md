@@ -242,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/suma01111/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/suma01111/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/suma01111/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
+| [0605-can-place-flowers](https://github.com/suma01111/LeetCode/tree/master/0605-can-place-flowers) |
 | [0621-task-scheduler](https://github.com/suma01111/LeetCode/tree/master/0621-task-scheduler) |
 | [0643-maximum-average-subarray-i](https://github.com/suma01111/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/suma01111/LeetCode/tree/master/0724-find-pivot-index) |
@@ -554,6 +555,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0334-increasing-triplet-subsequence](https://github.com/suma01111/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/suma01111/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/suma01111/LeetCode/tree/master/0455-assign-cookies) |
+| [0605-can-place-flowers](https://github.com/suma01111/LeetCode/tree/master/0605-can-place-flowers) |
 | [0621-task-scheduler](https://github.com/suma01111/LeetCode/tree/master/0621-task-scheduler) |
 | [0876-hand-of-straights](https://github.com/suma01111/LeetCode/tree/master/0876-hand-of-straights) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/suma01111/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
