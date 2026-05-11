@@ -184,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/suma01111/LeetCode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/suma01111/LeetCode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/suma01111/LeetCode/tree/master/0040-combination-sum-ii) |
+| [0041-first-missing-positive](https://github.com/suma01111/LeetCode/tree/master/0041-first-missing-positive) |
 | [0046-permutations](https://github.com/suma01111/LeetCode/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/suma01111/LeetCode/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/suma01111/LeetCode/tree/master/0051-n-queens) |
@@ -372,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/suma01111/LeetCode/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/suma01111/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/suma01111/LeetCode/tree/master/0037-sudoku-solver) |
+| [0041-first-missing-positive](https://github.com/suma01111/LeetCode/tree/master/0041-first-missing-positive) |
 | [0073-set-matrix-zeroes](https://github.com/suma01111/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/suma01111/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/suma01111/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
