@@ -317,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/suma01111/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2540-minimum-common-value](https://github.com/suma01111/LeetCode/tree/master/2540-minimum-common-value) |
 | [2551-apply-operations-to-an-array](https://github.com/suma01111/LeetCode/tree/master/2551-apply-operations-to-an-array) |
+| [2553-separate-the-digits-in-an-array](https://github.com/suma01111/LeetCode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/suma01111/LeetCode/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2596-check-knight-tour-configuration](https://github.com/suma01111/LeetCode/tree/master/2596-check-knight-tour-configuration) |
 | [2615-sum-of-distances](https://github.com/suma01111/LeetCode/tree/master/2615-sum-of-distances) |
@@ -890,6 +891,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2390-removing-stars-from-a-string](https://github.com/suma01111/LeetCode/tree/master/2390-removing-stars-from-a-string) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/suma01111/LeetCode/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2551-apply-operations-to-an-array](https://github.com/suma01111/LeetCode/tree/master/2551-apply-operations-to-an-array) |
+| [2553-separate-the-digits-in-an-array](https://github.com/suma01111/LeetCode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2596-check-knight-tour-configuration](https://github.com/suma01111/LeetCode/tree/master/2596-check-knight-tour-configuration) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/suma01111/LeetCode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/suma01111/LeetCode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
