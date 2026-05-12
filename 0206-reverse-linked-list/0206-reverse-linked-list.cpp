@@ -16,13 +16,14 @@ public:
         ListNode* nextNode=NULL;
 
         while(curr != NULL){
-            nextNode = curr->next;
+            nextNode = curr->next; 
             curr->next = prev;
 
+            //moving ptr forward
             prev=curr;
             curr=nextNode;
         }
 
-        return prev;
+        return prev; //since now prev is first node
     }
 };
