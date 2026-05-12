@@ -1,5 +1,3 @@
-//by me : TC=O(2N), SC=O(1)
-
 /**
  * Definition for singly-linked list.
  * struct ListNode {
@@ -10,38 +8,37 @@
  *     ListNode(int x, ListNode *next) : val(x), next(next) {}
  * };
  */
+
+ //BY me
 class Solution {
 public:
     ListNode* middleNode(ListNode* head) {
-        ListNode* temp = head;
-        int cnt=0;
-
-        if(head == NULL)return NULL;
-
-        while(temp!=NULL){
-            cnt++;
-            temp=temp->next;
+        ListNode* curr = head;
+        int n=0;
+        while(curr!=NULL){
+            curr =curr->next;
+            n++;
         }
 
-        temp = head;
-
-        if(cnt % 2 ==1){
-            int odd = 1;
-            while(odd< (cnt+1)/2){
-                temp = temp->next;
+        curr = head;
+        if(n%2==1){
+            int odd=0;
+            while(odd<n/2){
+                curr=curr->next;
                 odd++;
             }
-            return temp;
+            return curr;
         }
 
-        if(cnt%2==0){
-            int even = 1;
-            while(even < (cnt/2 + 1)){
-                temp=temp->next;
+        else{
+            int even=0;
+            while(even < n/2){
+               curr=curr->next;
                 even++;
             }
-            return temp;
+            return curr;
         }
+
         return head;
     }
 };
