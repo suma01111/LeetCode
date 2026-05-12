@@ -1,3 +1,8 @@
+//sub02 : Optimal , TC=O(N), SC=O(1)
+// When fast reaches end:
+// 👉 slow will be at middle
+
+
 /**
  * Definition for singly-linked list.
  * struct ListNode {
@@ -9,36 +14,26 @@
  * };
  */
 
- //BY me
+ //Submission 2
 class Solution {
 public:
     ListNode* middleNode(ListNode* head) {
-        ListNode* curr = head;
-        int n=0;
-        while(curr!=NULL){
-            curr =curr->next;
-            n++;
+        // ListNode* slow =head;
+        // ListNode* fast =head;
+
+        // while(slow!=NULL && fast->next->next!=NULL ){
+        //     slow = slow->next;
+        //     fast = fast->next->next;
+        // }
+        ListNode* slow = head;
+        ListNode* fast = head;
+
+        while(fast != NULL && fast->next != NULL) { //IMP: CONDition, 
+        //fast !=NUll for even cases and fast->next = null for odd cases 
+            slow = slow->next;
+            fast = fast->next->next;
         }
 
-        curr = head;
-        if(n%2==1){
-            int odd=0;
-            while(odd<n/2){
-                curr=curr->next;
-                odd++;
-            }
-            return curr;
-        }
-
-        else{
-            int even=0;
-            while(even < n/2){
-               curr=curr->next;
-                even++;
-            }
-            return curr;
-        }
-
-        return head;
+        return slow;
     }
 };
