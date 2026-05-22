@@ -28,7 +28,9 @@ public:
         
     }
 
-    
+
     return -1;
     }
 };
+
+//take care of EQUAL TOs, I was forget to put so TLE was showing
