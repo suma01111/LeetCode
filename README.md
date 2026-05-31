@@ -196,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/suma01111/LeetCode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/suma01111/LeetCode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/suma01111/LeetCode/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/suma01111/LeetCode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/suma01111/LeetCode/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/suma01111/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/suma01111/LeetCode/tree/master/0074-search-a-2d-matrix) |
@@ -476,6 +477,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/suma01111/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/suma01111/LeetCode/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/suma01111/LeetCode/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/suma01111/LeetCode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/suma01111/LeetCode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/suma01111/LeetCode/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/suma01111/LeetCode/tree/master/0085-maximal-rectangle) |
@@ -590,6 +592,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/suma01111/LeetCode/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/suma01111/LeetCode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/suma01111/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/suma01111/LeetCode/tree/master/0134-gas-station) |
 | [0334-increasing-triplet-subsequence](https://github.com/suma01111/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
