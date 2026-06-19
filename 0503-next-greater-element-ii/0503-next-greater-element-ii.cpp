@@ -1,20 +1,26 @@
+//solution 2 striver
+
 class Solution {
 public:
     vector<int> nextGreaterElements(vector<int>& nums) {
-        stack<int> s;
         int n = nums.size();
-        vector<int> ans(n,-1);
-        
-// imp is  we are traversing index as twice of nums array (2N), i.e using [i%n]
-        for(int i=(2*n-1); i>=0;i--){
-            while(s.size()>0 &&  nums[i%n]>= s.top()){
-                s.pop();
-            }
-            if(s.empty()) ans[i%n] = -1;
-            else ans[i%n] = s.top();
+        vector<int> nge(n);
+        stack<int> st;
 
-            s.push(nums[i%n]);
+// imp is  we are traversing index as twice of nums array (2N), i.e using [i%n]
+        for(int i = 2*n-1; i >= 0; i--) {
+
+                while(!st.empty() && st.top() <= nums[i % n]) {
+                    st.pop();
+                }
+
+                if(i < n) {
+                    nge[i] = st.empty() ? -1 : st.top();
+                }
+
+                st.push(nums[i % n]);
         }
-        return ans;
+
+        return nge;
     }
 };
