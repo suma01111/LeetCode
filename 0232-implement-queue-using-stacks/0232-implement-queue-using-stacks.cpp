@@ -1,19 +1,21 @@
 class MyQueue {
 public:
-stack<int> s1;
-stack<int> s2;
-
+stack<int> s1,s2;
     MyQueue() {
         
     }
     
-    void push(int x) { //3step, s1->s2, new element in s1, s2->s1
+    void push(int x) { //s1 act as queue
+        //step1 s1->s2
         while(!s1.empty()){
             s2.push(s1.top());
             s1.pop();
         }
-        s1.push(x);
 
+        //step 2: push
+        s2.push(x);
+
+        //step3: s2->s1
         while(!s2.empty()){
             s1.push(s2.top());
             s2.pop();
@@ -21,9 +23,9 @@ stack<int> s2;
     }
     
     int pop() {
-        int ans = s1.top();
+        int val=s1.top();
         s1.pop();
-        return ans;
+        return val;
     }
     
     int peek() {
