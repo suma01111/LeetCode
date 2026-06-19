@@ -1,38 +1,42 @@
+//approach 2 using 1 queue
+//remeber rotating n-1 element 
+
 class MyStack {
 public:
-    queue<int> q1, q2;
-
+queue<int> q;
     MyStack() {
+        
     }
-
+    
     void push(int x) {
-        // Step 1: Push new element into q2
-        q2.push(x);
-
-        // Step 2: Move all elements from q1 to q2
-        while (!q1.empty()) {
-            q2.push(q1.front());
-            q1.pop();
-        }
-
-        // Step 3: Move everything back to q1
-        while (!q2.empty()) {
-            q1.push(q2.front());
-            q2.pop();
+        q.push(x);
+        // Rotate the previous elements
+        for(int i=0;i<q.size()-1;i++){
+            q.push(q.front());
+            q.pop();
         }
     }
-
+    
     int pop() {
-        int val = q1.front();
-        q1.pop();
+        int val=q.front();
+        q.pop();
         return val;
     }
-
+    
     int top() {
-        return q1.front();
+        return q.front();
     }
-
+    
     bool empty() {
-        return q1.empty();
+        return q.empty();
     }
 };
+
+/**
+ * Your MyStack object will be instantiated and called as such:
+ * MyStack* obj = new MyStack();
+ * obj->push(x);
+ * int param_2 = obj->pop();
+ * int param_3 = obj->top();
+ * bool param_4 = obj->empty();
+ */
