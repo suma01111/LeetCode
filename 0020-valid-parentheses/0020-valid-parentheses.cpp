@@ -12,8 +12,10 @@ public:
                 if((stack.top() == '(' && s[i] == ')') ||
                    (stack.top() == '{' && s[i] == '}') ||
                    (stack.top() == '[' && s[i] == ']')) {
+                    
                     stack.pop();
-                } else {
+                } 
+                else {
                     return false;
                 }
             }
