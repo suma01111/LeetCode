@@ -29,14 +29,16 @@ public:
             st.pop();
         }
 
+        // Remove leading zeros
+        while(ans.size()!=0 && ans.back()=='0') ans.pop_back();
+
         reverse(ans.begin(), ans.end());
 
         // Remove leading zeros
-        int i = 0;
-        while(i < ans.size() && ans[i] == '0')
-            i++;
-
-        ans = ans.substr(i);
+        // int i = 0;
+        // while(i < ans.size() && ans[i] == '0')
+        //     i++;
+        // ans = ans.substr(i);
 
         return ans.empty() ? "0" : ans;
     }
