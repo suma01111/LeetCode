@@ -1,43 +1,55 @@
 class Solution {
 public:
     int maxBuilding(int n, vector<vector<int>>& restrictions) {
+        
+        // Add mandatory restriction for building 1
         restrictions.push_back({1, 0});
-        restrictions.push_back({n, n - 1});
 
+        // Sort by building index
         sort(restrictions.begin(), restrictions.end());
+
+        // Add restriction for building n if not present
+        if (restrictions.back()[0] != n) {
+            restrictions.push_back({n, n - 1});
+        }
 
         int m = restrictions.size();
 
+        // Left -> Right pass
         for (int i = 1; i < m; i++) {
-            restrictions[i][1] = min(
-            restrictions[i][1],
-            restrictions[i - 1][1] +
-            restrictions[i][0] - restrictions[i - 1][0]
-            );
-        }
-
-        for (int i = m - 2; i >= 0; i--) {
+            int dist = restrictions[i][0] - restrictions[i - 1][0];
             restrictions[i][1] = min(
                 restrictions[i][1],
-                restrictions[i + 1][1] +
-                restrictions[i + 1][0] - restrictions[i][0]
+                restrictions[i - 1][1] + dist
             );
         }
 
-        int ans = 0;
-
-        for (int i = 1; i < m; i++) {
-            long long id1 = restrictions[i - 1][0];
-            long long h1  = restrictions[i - 1][1];
-
-            long long id2 = restrictions[i][0];
-            long long h2  = restrictions[i][1];
-
-            long long d = id2 - id1;
-
-            ans = max(ans, (int)((h1 + h2 + d) / 2));
+        // Right -> Left pass
+        for (int i = m - 2; i >= 0; i--) {
+            int dist = restrictions[i + 1][0] - restrictions[i][0];
+            restrictions[i][1] = min(
+                restrictions[i][1],
+                restrictions[i + 1][1] + dist
+            );
         }
 
-        return ans;
+        long long ans = 0;
+
+        // Find maximum possible height between every pair of restrictions
+        for (int i = 0; i < m - 1; i++) {
+            long long x1 = restrictions[i][0];
+            long long h1 = restrictions[i][1];
+
+            long long x2 = restrictions[i + 1][0];
+            long long h2 = restrictions[i + 1][1];
+
+            long long dist = x2 - x1;
+
+            long long peak = (dist + h1 + h2) / 2;
+
+            ans = max(ans, peak);
+        }
+
+        return (int)ans;
     }
 };
