@@ -22,11 +22,9 @@ public:
 
             s.push(i);
         }
-        for(int i=0;i<n;i++) cout<<nse[i]<<endl;
 
         //step2: empty stack for pse
         while(!s.empty()) s.pop();
-
 
         //step3:Previous Smaller element,REMEMBER this will handle DUPLICATE ALSO
         for(int i=0;i<n;i++){
@@ -40,11 +38,12 @@ public:
 
         //step 4: cal
         long long ans = 0;
+
         for(int i = 0; i < n; i++) {
             long long left = i - pse[i];
             long long right = nse[i] - i;
 
-            long long contribution =(((1LL * arr[i] * left) % MOD) * right)%MOD;
+            long long contribution = (((1LL * arr[i] * left) % MOD) * right) % MOD;
 
             ans = (ans + contribution) % MOD;
         }
