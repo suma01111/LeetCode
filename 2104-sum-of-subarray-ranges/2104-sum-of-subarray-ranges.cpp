@@ -1,3 +1,5 @@
+//IMP , avoid duplicates
+//PGE, NGE,    PSE, NSE
 class Solution {
 public:
     long long subArrayRanges(vector<int>& nums) {
@@ -11,17 +13,17 @@ public:
         // Previous Greater
         while (!st.empty()) st.pop();
         for (int i = 0; i < n; i++) {
-            while (!st.empty() && nums[st.top()] <= nums[i])
+            while (!st.empty() && nums[st.top()] < nums[i])
                 st.pop();
 
             prevGreater[i] = st.empty() ? -1 : st.top();
             st.push(i);
         }
 
-        // Next Greater
+        // Next Greater    
         while (!st.empty()) st.pop();
         for (int i = n - 1; i >= 0; i--) {
-            while (!st.empty() && nums[st.top()] < nums[i])
+            while (!st.empty() && nums[st.top()] <= nums[i])
                 st.pop();
 
             nextGreater[i] = st.empty() ? n : st.top();
@@ -31,17 +33,17 @@ public:
         // Previous Smaller
         while (!st.empty()) st.pop();
         for (int i = 0; i < n; i++) {
-            while (!st.empty() && nums[st.top()] >= nums[i])
+            while (!st.empty() && nums[st.top()] > nums[i])
                 st.pop();
 
             prevSmaller[i] = st.empty() ? -1 : st.top();
             st.push(i);
         }
 
-        // Next Smaller
+        // Next Smaller,   
         while (!st.empty()) st.pop();
         for (int i = n - 1; i >= 0; i--) {
-            while (!st.empty() && nums[st.top()] > nums[i])
+            while (!st.empty() && nums[st.top()] >= nums[i])
                 st.pop();
 
             nextSmaller[i] = st.empty() ? n : st.top();
