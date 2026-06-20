@@ -326,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1975-maximum-matrix-sum](https://github.com/suma01111/LeetCode/tree/master/1975-maximum-matrix-sum) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/suma01111/LeetCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/suma01111/LeetCode/tree/master/2085-count-common-words-with-one-occurrence) |
+| [2104-sum-of-subarray-ranges](https://github.com/suma01111/LeetCode/tree/master/2104-sum-of-subarray-ranges) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/suma01111/LeetCode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2107-find-unique-binary-string](https://github.com/suma01111/LeetCode/tree/master/2107-find-unique-binary-string) |
 | [2126-destroying-asteroids](https://github.com/suma01111/LeetCode/tree/master/2126-destroying-asteroids) |
@@ -1018,6 +1019,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/suma01111/LeetCode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1856-maximum-subarray-min-product](https://github.com/suma01111/LeetCode/tree/master/1856-maximum-subarray-min-product) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/suma01111/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2104-sum-of-subarray-ranges](https://github.com/suma01111/LeetCode/tree/master/2104-sum-of-subarray-ranges) |
 | [2390-removing-stars-from-a-string](https://github.com/suma01111/LeetCode/tree/master/2390-removing-stars-from-a-string) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/suma01111/LeetCode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [3447-clear-digits](https://github.com/suma01111/LeetCode/tree/master/3447-clear-digits) |
@@ -1179,6 +1181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1628-count-submatrices-with-all-ones](https://github.com/suma01111/LeetCode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/suma01111/LeetCode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1856-maximum-subarray-min-product](https://github.com/suma01111/LeetCode/tree/master/1856-maximum-subarray-min-product) |
+| [2104-sum-of-subarray-ranges](https://github.com/suma01111/LeetCode/tree/master/2104-sum-of-subarray-ranges) |
 ## String Matching
 |  |
 | ------- |
