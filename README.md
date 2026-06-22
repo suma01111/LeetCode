@@ -268,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/suma01111/LeetCode/tree/master/0605-can-place-flowers) |
 | [0621-task-scheduler](https://github.com/suma01111/LeetCode/tree/master/0621-task-scheduler) |
 | [0643-maximum-average-subarray-i](https://github.com/suma01111/LeetCode/tree/master/0643-maximum-average-subarray-i) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/suma01111/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0724-find-pivot-index](https://github.com/suma01111/LeetCode/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/suma01111/LeetCode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/suma01111/LeetCode/tree/master/0739-daily-temperatures) |
@@ -517,6 +518,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/suma01111/LeetCode/tree/master/0392-is-subsequence) |
 | [0396-rotate-function](https://github.com/suma01111/LeetCode/tree/master/0396-rotate-function) |
 | [0435-non-overlapping-intervals](https://github.com/suma01111/LeetCode/tree/master/0435-non-overlapping-intervals) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/suma01111/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0788-rotated-digits](https://github.com/suma01111/LeetCode/tree/master/0788-rotated-digits) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/suma01111/LeetCode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0907-sum-of-subarray-minimums](https://github.com/suma01111/LeetCode/tree/master/0907-sum-of-subarray-minimums) |
@@ -631,6 +633,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/suma01111/LeetCode/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/suma01111/LeetCode/tree/master/0605-can-place-flowers) |
 | [0621-task-scheduler](https://github.com/suma01111/LeetCode/tree/master/0621-task-scheduler) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/suma01111/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0876-hand-of-straights](https://github.com/suma01111/LeetCode/tree/master/0876-hand-of-straights) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/suma01111/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1018-largest-perimeter-triangle](https://github.com/suma01111/LeetCode/tree/master/1018-largest-perimeter-triangle) |
