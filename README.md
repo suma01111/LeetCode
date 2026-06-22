@@ -287,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/suma01111/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/suma01111/LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1018-largest-perimeter-triangle](https://github.com/suma01111/LeetCode/tree/master/1018-largest-perimeter-triangle) |
+| [1020-number-of-enclaves](https://github.com/suma01111/LeetCode/tree/master/1020-number-of-enclaves) |
 | [1089-duplicate-zeros](https://github.com/suma01111/LeetCode/tree/master/1089-duplicate-zeros) |
 | [1200-minimum-absolute-difference](https://github.com/suma01111/LeetCode/tree/master/1200-minimum-absolute-difference) |
 | [1207-unique-number-of-occurrences](https://github.com/suma01111/LeetCode/tree/master/1207-unique-number-of-occurrences) |
@@ -808,6 +809,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0854-making-a-large-island](https://github.com/suma01111/LeetCode/tree/master/0854-making-a-large-island) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/suma01111/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/suma01111/LeetCode/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/suma01111/LeetCode/tree/master/1020-number-of-enclaves) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/suma01111/LeetCode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/suma01111/LeetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1306-jump-game-iii](https://github.com/suma01111/LeetCode/tree/master/1306-jump-game-iii) |
@@ -865,6 +867,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/suma01111/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0854-making-a-large-island](https://github.com/suma01111/LeetCode/tree/master/0854-making-a-large-island) |
 | [0994-rotting-oranges](https://github.com/suma01111/LeetCode/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/suma01111/LeetCode/tree/master/1020-number-of-enclaves) |
 | [1396-count-servers-that-communicate](https://github.com/suma01111/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/suma01111/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/suma01111/LeetCode/tree/master/1582-special-positions-in-a-binary-matrix) |
@@ -933,6 +936,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0820-find-eventual-safe-states](https://github.com/suma01111/LeetCode/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/suma01111/LeetCode/tree/master/0854-making-a-large-island) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/suma01111/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1020-number-of-enclaves](https://github.com/suma01111/LeetCode/tree/master/1020-number-of-enclaves) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/suma01111/LeetCode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/suma01111/LeetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/suma01111/LeetCode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
@@ -1294,6 +1298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/suma01111/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/suma01111/LeetCode/tree/master/0200-number-of-islands) |
+| [1020-number-of-enclaves](https://github.com/suma01111/LeetCode/tree/master/1020-number-of-enclaves) |
 | [1061-lexicographically-smallest-equivalent-string](https://github.com/suma01111/LeetCode/tree/master/1061-lexicographically-smallest-equivalent-string) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/suma01111/LeetCode/tree/master/1319-number-of-operations-to-make-network-connected) |
 ## Concurrency
