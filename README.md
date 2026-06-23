@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/suma01111/LeetCode/tree/master/0263-ugly-number) |
 | [0264-ugly-number-ii](https://github.com/suma01111/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/suma01111/LeetCode/tree/master/0268-missing-number) |
+| [0282-expression-add-operators](https://github.com/suma01111/LeetCode/tree/master/0282-expression-add-operators) |
 | [0342-power-of-four](https://github.com/suma01111/LeetCode/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/suma01111/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0371-sum-of-two-integers](https://github.com/suma01111/LeetCode/tree/master/0371-sum-of-two-integers) |
@@ -576,6 +577,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/suma01111/LeetCode/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/suma01111/LeetCode/tree/master/0227-basic-calculator-ii) |
 | [0242-valid-anagram](https://github.com/suma01111/LeetCode/tree/master/0242-valid-anagram) |
+| [0282-expression-add-operators](https://github.com/suma01111/LeetCode/tree/master/0282-expression-add-operators) |
 | [0290-word-pattern](https://github.com/suma01111/LeetCode/tree/master/0290-word-pattern) |
 | [0345-reverse-vowels-of-a-string](https://github.com/suma01111/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/suma01111/LeetCode/tree/master/0383-ransom-note) |
@@ -1103,6 +1105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/suma01111/LeetCode/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/suma01111/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/suma01111/LeetCode/tree/master/0216-combination-sum-iii) |
+| [0282-expression-add-operators](https://github.com/suma01111/LeetCode/tree/master/0282-expression-add-operators) |
 | [1160-letter-tile-possibilities](https://github.com/suma01111/LeetCode/tree/master/1160-letter-tile-possibilities) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/suma01111/LeetCode/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/suma01111/LeetCode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
