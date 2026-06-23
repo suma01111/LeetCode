@@ -1,18 +1,15 @@
-//The sum of all elements between 1 and x inclusively equals the sum of all elements between x and n inclusively.
-class Solution { //BRUTE froce
+//Better Approach (Prefix Sum Idea)
+class Solution {
 public:
     int pivotInteger(int n) {
 
+        int total=n*(n+1)/2;
+        int leftSum=0;
+
         for (int x=1;x<=n;x++) {
+            leftSum+=x;
 
-            int leftSum=0;
-            int rightSum=0;
-
-            for (int i=1;i<=x;i++)
-                leftSum +=i;
-
-            for (int i=x;i<=n;i++)
-                rightSum+=i;
+            int rightSum=total-(leftSum-x); //IMPPP
 
             if (leftSum==rightSum)
                 return x;
