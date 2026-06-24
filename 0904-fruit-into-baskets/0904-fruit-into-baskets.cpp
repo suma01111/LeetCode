@@ -1,24 +1,24 @@
 class Solution {
 public:
     int totalFruit(vector<int>& fruits) {
-        unordered_map<int, int> basket;
-        int i = 0, j = 0;
-        int maxFruits = 0;
+        int l = 0, maxLen = 0;
+        unordered_map<int, int> mp; //fruits[i], freq
 
-        while (j < fruits.size()) {
-            basket[fruits[j]]++;
+        for (int r=0;r<fruits.size();r++) {
+            mp[fruits[r]]++; 
 
-            while (basket.size() > 2) {
-                basket[fruits[i]]--;
-                if (basket[fruits[i]] == 0)
-                    basket.erase(fruits[i]);
-                i++;
+            while (mp.size()>2) { //IMPPP, if map have more than size2, move l
+                mp[fruits[l]]--; //decrease freq of l from map then down l++
+
+                if (mp[fruits[l]]==0) //if freq==0, erase from MAP
+                    mp.erase(fruits[l]);
+
+                l++;
             }
 
-            maxFruits = max(maxFruits, j - i + 1);
-            j++;
+            maxLen=max(maxLen,r-l+1);
         }
 
-        return maxFruits;
+        return maxLen;
     }
 };
