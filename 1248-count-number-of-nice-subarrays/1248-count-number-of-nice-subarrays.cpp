@@ -1,28 +1,31 @@
-
 class Solution {
 public:
-    int numberOfSubarrays(vector<int>& nums, int k) {
-        int l = 0;
-        int odd = 0;
-        int ans = 0;
-        int cnt = 0;   // counts valid left shifts
 
-        for (int r = 0; r < nums.size(); r++) {
+    int atMost(vector<int>& nums, int k) {
+        int l=0;
+        int ans=0;
 
-            if (nums[r] % 2 == 1) {
-                odd++;
-                cnt = 0;   // reset count when new odd comes
-            }
+        for (int r=0;r<nums.size();r++) {
 
-            while (odd == k) {
-                cnt++; //count even number which dont affect odd cnt string
-                if (nums[l] % 2 == 1) odd--;
+            // Count odd numbers in window
+            if (nums[r] % 2)
+                k--;
+
+            // Shrink if odds exceed limit
+            while (k < 0) {
+                if (nums[l] % 2)
+                    k++;
                 l++;
             }
 
-            ans += cnt;
+            // Number of valid subarrays ending at r
+            ans += (r - l + 1);
         }
 
         return ans;
+    }
+
+    int numberOfSubarrays(vector<int>& nums, int k) {
+        return atMost(nums, k) - atMost(nums, k - 1);
     }
 };
