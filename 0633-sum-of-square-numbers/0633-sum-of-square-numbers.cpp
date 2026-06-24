@@ -1,21 +1,20 @@
-#include <cmath>
-
 class Solution {
 public:
     bool judgeSquareSum(int c) {
-        long a = 0;
-        long b = static_cast<long>(sqrt(c));  // Use sqrt from <cmath> and cast to long
+        long long left = 0;
+        long long right = sqrt(c);
 
-        while (a <= b) {
-            long target = a * a + b * b;
-            if (target == c) {
+        while (left <= right) {
+            long long sum = left * left + right * right;
+
+            if (sum == c)
                 return true;
-            } else if (target < c) {
-                a++;
-            } else {
-                b--;  // Decrement b when target is greater than c
-            }
+            else if (sum < c)
+                left++;
+            else
+                right--;
         }
+
         return false;
     }
 };
