@@ -281,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0532-k-diff-pairs-in-an-array](https://github.com/suma01111/LeetCode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/suma01111/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/suma01111/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [0561-array-partition](https://github.com/suma01111/LeetCode/tree/master/0561-array-partition) |
 | [0594-longest-harmonious-subsequence](https://github.com/suma01111/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0605-can-place-flowers](https://github.com/suma01111/LeetCode/tree/master/0605-can-place-flowers) |
 | [0621-task-scheduler](https://github.com/suma01111/LeetCode/tree/master/0621-task-scheduler) |
@@ -675,6 +676,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/suma01111/LeetCode/tree/master/0402-remove-k-digits) |
 | [0435-non-overlapping-intervals](https://github.com/suma01111/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/suma01111/LeetCode/tree/master/0455-assign-cookies) |
+| [0561-array-partition](https://github.com/suma01111/LeetCode/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/suma01111/LeetCode/tree/master/0605-can-place-flowers) |
 | [0621-task-scheduler](https://github.com/suma01111/LeetCode/tree/master/0621-task-scheduler) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/suma01111/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
@@ -735,6 +737,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/suma01111/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/suma01111/LeetCode/tree/master/0455-assign-cookies) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/suma01111/LeetCode/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0561-array-partition](https://github.com/suma01111/LeetCode/tree/master/0561-array-partition) |
 | [0594-longest-harmonious-subsequence](https://github.com/suma01111/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0621-task-scheduler](https://github.com/suma01111/LeetCode/tree/master/0621-task-scheduler) |
 | [0876-hand-of-straights](https://github.com/suma01111/LeetCode/tree/master/0876-hand-of-straights) |
@@ -1400,6 +1403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0561-array-partition](https://github.com/suma01111/LeetCode/tree/master/0561-array-partition) |
 | [1833-maximum-ice-cream-bars](https://github.com/suma01111/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
 ## Doubly-Linked List
 |  |
