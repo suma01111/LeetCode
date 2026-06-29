@@ -1,27 +1,26 @@
 class Solution {
 public:
     vector<vector<int>> shiftGrid(vector<vector<int>>& grid, int k) {
+        int m=grid.size();       
+        int n=grid[0].size();   
 
-        int m=grid.size();
-        int n=grid[0].size();
+        vector<vector<int>> temp(m,vector<int>(n,0));
 
-        vector<vector<int>> ans(m,vector<int>(n));
+        for (int r=0;r<m;r++) {
+            for (int c=0;c<n;c++) {
 
-        int total=m*n;
-        k%=total;
+                // Convert (r, c) to 1D index and shift by k
+                int newVal = ((r*n + c)+k) % (m*n); 
+                //row*totalNum of Col + current col -> give you idx in 1D, to shift +k
 
-        for (int i=0;i<m;i++) {
-            for (int j=0;j<n;j++) {
-                int oldIndex= i*n + j;
-                int newIndex= (oldIndex+k) % total;
+                // Convert shifted 1D index back to 2D coordinates
+                int newr=newVal/n;
+                int newc =newVal%n;
 
-                int row = newIndex/n;
-                int col = newIndex%n;
-
-                ans[row][col] = grid[i][j];
+                temp[newr][newc]=grid[r][c];
             }
         }
 
-        return ans;
+        return temp;
     }
 };
