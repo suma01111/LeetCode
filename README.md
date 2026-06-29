@@ -404,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2784-check-if-array-is-good](https://github.com/suma01111/LeetCode/tree/master/2784-check-if-array-is-good) |
 | [2792-neighboring-bitwise-xor](https://github.com/suma01111/LeetCode/tree/master/2792-neighboring-bitwise-xor) |
 | [2845-count-of-interesting-subarrays](https://github.com/suma01111/LeetCode/tree/master/2845-count-of-interesting-subarrays) |
+| [2848-points-that-intersect-with-cars](https://github.com/suma01111/LeetCode/tree/master/2848-points-that-intersect-with-cars) |
 | [2906-construct-product-matrix](https://github.com/suma01111/LeetCode/tree/master/2906-construct-product-matrix) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/suma01111/LeetCode/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/suma01111/LeetCode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
@@ -539,6 +540,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2784-check-if-array-is-good](https://github.com/suma01111/LeetCode/tree/master/2784-check-if-array-is-good) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/suma01111/LeetCode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2845-count-of-interesting-subarrays](https://github.com/suma01111/LeetCode/tree/master/2845-count-of-interesting-subarrays) |
+| [2848-points-that-intersect-with-cars](https://github.com/suma01111/LeetCode/tree/master/2848-points-that-intersect-with-cars) |
 | [2965-find-missing-and-repeated-values](https://github.com/suma01111/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/suma01111/LeetCode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/suma01111/LeetCode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
@@ -862,6 +864,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2485-find-the-pivot-integer](https://github.com/suma01111/LeetCode/tree/master/2485-find-the-pivot-integer) |
 | [2615-sum-of-distances](https://github.com/suma01111/LeetCode/tree/master/2615-sum-of-distances) |
 | [2845-count-of-interesting-subarrays](https://github.com/suma01111/LeetCode/tree/master/2845-count-of-interesting-subarrays) |
+| [2848-points-that-intersect-with-cars](https://github.com/suma01111/LeetCode/tree/master/2848-points-that-intersect-with-cars) |
 | [2906-construct-product-matrix](https://github.com/suma01111/LeetCode/tree/master/2906-construct-product-matrix) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/suma01111/LeetCode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/suma01111/LeetCode/tree/master/3432-count-partitions-with-even-sum-difference) |
