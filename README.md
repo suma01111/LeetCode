@@ -324,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1200-minimum-absolute-difference](https://github.com/suma01111/LeetCode/tree/master/1200-minimum-absolute-difference) |
 | [1207-unique-number-of-occurrences](https://github.com/suma01111/LeetCode/tree/master/1207-unique-number-of-occurrences) |
 | [1248-count-number-of-nice-subarrays](https://github.com/suma01111/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
+| [1260-shift-2d-grid](https://github.com/suma01111/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1266-minimum-time-visiting-all-points](https://github.com/suma01111/LeetCode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1306-jump-game-iii](https://github.com/suma01111/LeetCode/tree/master/1306-jump-game-iii) |
 | [1340-jump-game-v](https://github.com/suma01111/LeetCode/tree/master/1340-jump-game-v) |
@@ -980,6 +981,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0854-making-a-large-island](https://github.com/suma01111/LeetCode/tree/master/0854-making-a-large-island) |
 | [0994-rotting-oranges](https://github.com/suma01111/LeetCode/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/suma01111/LeetCode/tree/master/1020-number-of-enclaves) |
+| [1260-shift-2d-grid](https://github.com/suma01111/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1396-count-servers-that-communicate](https://github.com/suma01111/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/suma01111/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/suma01111/LeetCode/tree/master/1582-special-positions-in-a-binary-matrix) |
@@ -1090,6 +1092,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/suma01111/LeetCode/tree/master/0735-asteroid-collision) |
 | [0874-walking-robot-simulation](https://github.com/suma01111/LeetCode/tree/master/0874-walking-robot-simulation) |
 | [1103-distribute-candies-to-people](https://github.com/suma01111/LeetCode/tree/master/1103-distribute-candies-to-people) |
+| [1260-shift-2d-grid](https://github.com/suma01111/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1389-create-target-array-in-the-given-order](https://github.com/suma01111/LeetCode/tree/master/1389-create-target-array-in-the-given-order) |
 | [1441-build-an-array-with-stack-operations](https://github.com/suma01111/LeetCode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/suma01111/LeetCode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
