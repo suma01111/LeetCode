@@ -454,6 +454,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3790-fruits-into-baskets-ii](https://github.com/suma01111/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/suma01111/LeetCode/tree/master/3791-fruits-into-baskets-iii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/suma01111/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
+| [3909-compare-sums-of-bitonic-parts](https://github.com/suma01111/LeetCode/tree/master/3909-compare-sums-of-bitonic-parts) |
 ## Hash Table
 |  |
 | ------- |
