@@ -374,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1975-maximum-matrix-sum](https://github.com/suma01111/LeetCode/tree/master/1975-maximum-matrix-sum) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/suma01111/LeetCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/suma01111/LeetCode/tree/master/2016-maximum-difference-between-increasing-elements) |
+| [2053-kth-distinct-string-in-an-array](https://github.com/suma01111/LeetCode/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/suma01111/LeetCode/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2104-sum-of-subarray-ranges](https://github.com/suma01111/LeetCode/tree/master/2104-sum-of-subarray-ranges) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/suma01111/LeetCode/tree/master/2106-find-greatest-common-divisor-of-array) |
@@ -527,6 +528,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1679-max-number-of-k-sum-pairs](https://github.com/suma01111/LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/suma01111/LeetCode/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/suma01111/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [2053-kth-distinct-string-in-an-array](https://github.com/suma01111/LeetCode/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/suma01111/LeetCode/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2107-find-unique-binary-string](https://github.com/suma01111/LeetCode/tree/master/2107-find-unique-binary-string) |
 | [2351-first-letter-to-appear-twice](https://github.com/suma01111/LeetCode/tree/master/2351-first-letter-to-appear-twice) |
@@ -680,6 +682,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/suma01111/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/suma01111/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2032-largest-odd-number-in-string](https://github.com/suma01111/LeetCode/tree/master/2032-largest-odd-number-in-string) |
+| [2053-kth-distinct-string-in-an-array](https://github.com/suma01111/LeetCode/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/suma01111/LeetCode/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/suma01111/LeetCode/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2107-find-unique-binary-string](https://github.com/suma01111/LeetCode/tree/master/2107-find-unique-binary-string) |
@@ -833,6 +836,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-find-lucky-integer-in-an-array](https://github.com/suma01111/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/suma01111/LeetCode/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/suma01111/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [2053-kth-distinct-string-in-an-array](https://github.com/suma01111/LeetCode/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/suma01111/LeetCode/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2351-first-letter-to-appear-twice](https://github.com/suma01111/LeetCode/tree/master/2351-first-letter-to-appear-twice) |
 | [2448-count-number-of-bad-pairs](https://github.com/suma01111/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
