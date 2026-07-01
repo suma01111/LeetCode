@@ -14,9 +14,9 @@
 class Solution {
 public:
     vector<int> preorderTraversal(TreeNode* root) {
-        vector<int> preorder;
+        vector<int> res;
 
-        if(root == nullptr) return preorder;
+        if(root == nullptr) return res;
 
         stack<TreeNode*> st;
         st.push(root);
@@ -25,11 +25,11 @@ public:
             TreeNode* node = st.top();
             st.pop();
 
-            preorder.push_back(node->val);
-            if(node->right) st.push(node->right);
+            res.push_back(node->val);
+            if(node->right) st.push(node->right);//if rt=NULL, Nothing is pushed
             if(node->left) st.push(node->left);
         }
 
-        return preorder;
+        return res;
     }
 };
