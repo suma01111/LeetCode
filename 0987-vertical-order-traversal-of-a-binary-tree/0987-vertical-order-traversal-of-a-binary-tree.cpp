@@ -12,41 +12,41 @@
 class Solution {
 public:
     vector<vector<int>> verticalTraversal(TreeNode* root) {
-        
         vector<vector<int>> ans;
-        if(!root) return ans;
-        
-        map<int, vector<pair<int,int>>> mp; // col -> {row,value}
-        queue<pair<TreeNode*, pair<int,int>>> q; // node , {col,row}
-        
+
+        // FIX 1: unordered_map doesn't keep columns sorted.
+        map<int, vector<pair<int,int>>> m;// HD -> {level, value}
+
+        // FIX 2: Also store level (row) with each node.
+        queue<pair<TreeNode*,pair<int,int>>> q;// node,{HD,level}
         q.push({root,{0,0}});
-        
+
         while(!q.empty()){
-            
-            auto it = q.front();
+            auto curr=q.front();
             q.pop();
-            
-            TreeNode* node = it.first;
-            int col = it.second.first;
-            int row = it.second.second;
-            
-            mp[col].push_back({row,node->val});
-            
-            if(node->left)
-                q.push({node->left,{col-1,row+1}});
-            
-            if(node->right)
-                q.push({node->right,{col+1,row+1}});
+
+            TreeNode* node=curr.first;
+            int HD=curr.second.first;
+            int level=curr.second.second;
+
+            m[HD].push_back({level,node->val});
+
+            if(node->left) q.push({node->left,{HD-1,level+1}});
+            if(node->right) q.push({node->right,{HD+1,level+1}});
         }
-        
-        for(auto &it : mp){
-            auto vec = it.second;
-            sort(vec.begin(), vec.end()); // sort by row then value
+
+        for(auto &it:m){
+
+            // FIX 3: Sort by level first, then value if level is same.
+            sort(it.second.begin(),it.second.end());
+
             vector<int> col;
-            for(auto &p : vec)
-                col.push_back(p.second);   
+            for(auto x:it.second)
+                col.push_back(x.second);
+
             ans.push_back(col);
         }
+
         return ans;
     }
 };
