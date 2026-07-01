@@ -1,27 +1,30 @@
 /**
- * Definition for a binary tree node.
- * struct TreeNode {
- *     int val;
- *     TreeNode *left;
- *     TreeNode *right;
- *     TreeNode() : val(0), left(nullptr), right(nullptr) {}
- *     TreeNode(int x) : val(x), left(nullptr), right(nullptr) {}
- *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
- * };
+USING ITERATIVE INORDER USING STACK
+first push all leftmost node , when no left node exit then
+pop top , pb to ans vector
+then node = node->right
  */
 class Solution {
 public:
     vector<int> inorderTraversal(TreeNode* root) {
-        vector<int> res;
-        inOrderHelper(root, res);
-        return res;
-    }
-    void inOrderHelper(TreeNode* node, vector<int>& res){
-        if(node==NULL) return;
-        
-        inOrderHelper(node->left, res);
-        res.push_back(node->val);
-        inOrderHelper(node->right, res);
 
+        vector<int> inorder;
+        stack<TreeNode*> st;
+        TreeNode* node = root;
+
+        while(node!=nullptr || !st.empty()) {
+            while(node != nullptr) { //rem
+                st.push(node);
+                node = node->left;
+            }
+
+            node = st.top();//rem
+            st.pop();
+
+            inorder.push_back(node->val);
+            node = node->right; //rem
+        }
+
+        return inorder;
     }
 };
