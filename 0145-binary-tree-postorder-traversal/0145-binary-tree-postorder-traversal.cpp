@@ -1,33 +1,48 @@
 /**
-USING ITERATIVE 2 STACKS
-in Stack1 =>> push node , pop(top node) and push its childer in st1 same
-in Stack2 =>> that pop node from st1 will be pushed here 
-after all traversal , st_1 will be empty and St_2 will be our ans of POSTORDER
+USING ITERATIVE 1 STACKS
+Approach : trickyy little
+Keep pushing all left nodes.
+When curr == NULL, look at the top node.
+If the top node has an unvisited right child, move to the right subtree.
+Otherwise, visit the node, pop it, and mark it as lastVisited.
+Repeat until both curr == NULL and stack is empty.
  */
 class Solution {
 public:
     vector<int> postorderTraversal(TreeNode* root) {
+
         vector<int> ans;
+        stack<TreeNode*> st;
 
-        if(root == nullptr) return ans;
+        TreeNode* curr = root;
+        TreeNode* lastVisited = nullptr;// Last node whose value was added to ans
 
-        stack<TreeNode*> st1, st2;
-        st1.push(root);
+        while(curr != nullptr || !st.empty()) {
+            if(curr != nullptr) {//traverse all Left node
+                st.push(curr);
+                curr = curr->left;
+            }
+            else {
+                TreeNode* node = st.top();//(don't pop yet)
 
-        while(!st1.empty()) {
-            TreeNode* node = st1.top();
-            st1.pop(); //pop top from st1
-            st2.push(node);//push that node in st2
+                // If right subtree exists and is not processed,
+                // traverse the right subtree first.
+                if(node->right != nullptr && lastVisited != node->right) {
+                    curr = node->right;
+                }
+                else {
+                     // Left subtree is done.
+                    // Right subtree is either NULL or already processed.
+                    // Now process the current node.
+                    ans.push_back(node->val);
 
-            //push node children in st1
-            if(node->left) st1.push(node->left);
-            if(node->right) st1.push(node->right);
-        }
+                    // Mark this node as processed
+                    lastVisited = node;
 
-        //our final postOrder will be in st2
-        while(!st2.empty()) {
-            ans.push_back(st2.top()->val);
-            st2.pop();
+                    // Remove it from stack
+                    st.pop();
+                }
+            }
         }
 
         return ans;
