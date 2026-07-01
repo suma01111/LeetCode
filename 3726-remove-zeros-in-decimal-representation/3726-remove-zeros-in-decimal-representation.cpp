@@ -1,3 +1,4 @@
+//by me
 class Solution {
     long long helper(long long n){
         long long num=0;
@@ -8,9 +9,9 @@ class Solution {
             if(dig==0) continue;
             num=(num*10) +dig;
         }
-        string s = to_string(num);
+        string s = to_string(num); //IMPPP 
         reverse(s.begin(), s.end());
-        return stoll(s);
+        return stoll(s);//REMEMBER
     }
 public:
     long long removeZeros(long long n) {
