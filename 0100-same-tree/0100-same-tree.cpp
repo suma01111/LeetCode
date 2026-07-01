@@ -27,3 +27,11 @@ public:
                isSameTree(p->right, q->right);
     }
 };
+
+// if we dont write this 
+//  // Both are NULL or one is NULL case
+//     if (p == NULL && q == NULL)return true;
+//     if (p == NULL || q == NULL)return false;
+
+// Runtime Error: During recursion, the function is called with p or q as NULL, but the code directly accesses p->val and q->val. Dereferencing a NULL pointer causes a runtime error (segmentation fault).
+
