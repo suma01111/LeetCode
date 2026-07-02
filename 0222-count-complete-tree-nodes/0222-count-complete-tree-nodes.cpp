@@ -7,7 +7,7 @@
 // 4. Answer = 1 + left subtree + right subtree.
  */
 
- //optimal force in (log2N)
+ //optimal force in (logN)*(logN)
 
 class Solution {
 public:
