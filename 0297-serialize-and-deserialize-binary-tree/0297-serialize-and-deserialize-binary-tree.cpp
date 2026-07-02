@@ -1,3 +1,5 @@
+//BY PREORDER TRAVERSAL
+
 /**
 // Serialize:
 // 1. Perform preorder traversal.
