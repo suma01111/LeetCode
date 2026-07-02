@@ -1,59 +1,49 @@
-//BY PREORDER TRAVERSAL
+//BY LEVEL ORDER (BFS)
 
-/**
 // Serialize:
-// 1. Perform preorder traversal.
-// 2. Store node value.
-// 3. Store 'N' for NULL nodes.
-// 4. Join everything using ','.
-
+// 1. Perform level order traversal.
+// 2. Store node values.
+// 3. Store "N" for NULL nodes.
+//
 // Deserialize:
-// 1. Split string by ','.
-// 2. Read values one by one.
-// 3. If value is 'N', return NULL.
-// 4. Otherwise create node.
-// 5. Recursively build left and right subtree.
- */
-
+// 1. Read the root.
+// 2. Use a queue.
+// 3. For every node, assign its left and right child.
+// 4. Push non-null children into the queue.
 
 class Codec {
 public:
 
-    // Serialize using preorder DFS
-    void dfs(TreeNode* root, string &ans) {
-        if (!root) {
-            ans += "N,";
-            return;
-        }
-        ans += to_string(root->val) + ",";
-
-        dfs(root->left, ans);
-        dfs(root->right, ans);
-    }
-
+    // Encodes a tree to a single string.
     string serialize(TreeNode* root) {
+        if (!root) return "N";
+
         string ans;
-        dfs(root, ans);
+        queue<TreeNode*> q;
+        q.push(root);
+
+        while (!q.empty()) {
+            TreeNode* curr = q.front();
+            q.pop();
+
+            if (!curr) {
+                ans += "N,";
+                continue;
+            }
+
+            ans += to_string(curr->val) + ",";
+
+            q.push(curr->left);
+            q.push(curr->right);
+        }
 
         return ans;
     }
 
-    // Build tree back using preorder sequence
-    TreeNode* build(vector<string>& nodes, int &idx) {
-        if (nodes[idx] == "N") {
-            idx++;
-            return NULL;
-        }
-
-        TreeNode* root = new TreeNode(stoi(nodes[idx++]));
-
-        root->left = build(nodes, idx);
-        root->right = build(nodes, idx);
-
-        return root;
-    }
-
+    // Decodes your encoded data to tree.
     TreeNode* deserialize(string data) {
+        if (data == "N") return NULL;
+
         vector<string> nodes;
         string temp;
 
@@ -61,12 +51,37 @@ public:
             if (ch == ',') {
                 nodes.push_back(temp);
                 temp.clear();
+            } else {
+                temp += ch;
             }
-            else temp += ch;
         }
 
-        int idx = 0;
+        TreeNode* root = new TreeNode(stoi(nodes[0]));
 
-        return build(nodes, idx);
+        queue<TreeNode*> q;
+        q.push(root);
+
+        int i = 1;
+
+        while (!q.empty() && i < nodes.size()) {
+            TreeNode* curr = q.front();
+            q.pop();
+
+            // Left child
+            if (nodes[i] != "N") {
+                curr->left = new TreeNode(stoi(nodes[i]));
+                q.push(curr->left);
+            }
+            i++;
+
+            // Right child
+            if (i < nodes.size() && nodes[i] != "N") {
+                curr->right = new TreeNode(stoi(nodes[i]));
+                q.push(curr->right);
+            }
+            i++;
+        }
+
+        return root;
     }
 };
