@@ -1,28 +1,27 @@
 /**
- * Definition for a binary tree node.
- * struct TreeNode {
- *     int val;
- *     TreeNode *left;
- *     TreeNode *right;
- *     TreeNode() : val(0), left(nullptr), right(nullptr) {}
- *     TreeNode(int x) : val(x), left(nullptr), right(nullptr) {}
- *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
- * };
+// 1. Every node has a valid range (min,max).
+// 2. Initially range = (-∞,+∞).
+// 3. Left child -> (min, root)
+// 4. Right child -> (root, max)
+// 5. If any node violates the range, return false.
  */
+
 class Solution {
 public:
-    bool isValidBST(TreeNode* root) {
-        return helper(root, NULL, NULL);
+
+    bool solve(TreeNode* root, long long low, long long high) {
+        if (!root) return true;
+
+        // Current node must lie within (low, high)
+        if (root->val <= low || root->val >= high)
+            return false;
+
+        // Left subtree
+        return solve(root->left, low, root->val) &&
+               solve(root->right, root->val, high);
     }
 
-    bool helper(TreeNode* root, TreeNode* min, TreeNode* max){
-        if(root ==NULL) return true;
-
-        //IMP Check range of current node(root)
-        if(min!=NULL && root->val <= min->val) return false;
-        if(max!=NULL && root->val >= max->val) return false;
-
-        return helper(root->left, min, root)
-               && helper(root->right, root, max);
+    bool isValidBST(TreeNode* root) {
+        return solve(root, LLONG_MIN, LLONG_MAX);
     }
 };
