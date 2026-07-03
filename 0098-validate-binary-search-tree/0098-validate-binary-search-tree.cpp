@@ -8,20 +8,19 @@
 
 class Solution {
 public:
-
-    bool solve(TreeNode* root, long long low, long long high) {
-        if (!root) return true;
-
-        // Current node must lie within (low, high)
-        if (root->val <= low || root->val >= high)
-            return false;
-
-        // Left subtree
-        return solve(root->left, low, root->val) &&
-               solve(root->right, root->val, high);
+    bool isValidBST(TreeNode* root) {
+        return helper(root, LLONG_MIN, LLONG_MAX);
     }
 
-    bool isValidBST(TreeNode* root) {
-        return solve(root, LLONG_MIN, LLONG_MAX);
+    bool helper(TreeNode* node, long long mini, long long maxi) {
+
+        if(node == NULL)
+            return true;
+
+        if(node->val <= mini || node->val >= maxi) //range
+            return false;
+
+        return helper(node->left, mini, node->val) && //updating range while trav
+               helper(node->right, node->val, maxi);
     }
 };
