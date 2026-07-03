@@ -1,12 +1,8 @@
-/**
- * Definition for a binary tree node.
- * struct TreeNode {
- *     int val;
- *     TreeNode *left;
- *     TreeNode *right;
- *     TreeNode(int x) : val(x), left(NULL), right(NULL) {}
- * };
- */
+//APPROACH 1 : iterative 
+
+// 1. If both nodes are smaller, go left.
+// 2. If both nodes are greater, go right.
+// 3. Otherwise, current node is the LCA.
 
 class Solution {
 public:
