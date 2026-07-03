@@ -1,15 +1,14 @@
 /**
- * Definition for a binary tree node.
- * struct TreeNode {
- *     int val;
- *     TreeNode *left;
- *     TreeNode *right;
- *     TreeNode() : val(0), left(nullptr), right(nullptr) {}
- *     TreeNode(int x) : val(x), left(nullptr), right(nullptr) {}
- *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
- * };
+// 1. Perform DFS (Root → Left → Right).
+// 2. Whenever a level is visited for the first time,
+//    store that node.
+// 3. Since left is visited before right,
+//    the first node at every level is the leftmost node.
+// 4. Return the last stored value.
  */
 class Solution {
+    //DFS, level order traversal
+    //Visit the Left subtree before the Right subtree, and store only the first node seen at every level.
 public:
     int findBottomLeftValue(TreeNode* root) {
         vector<int> res;
