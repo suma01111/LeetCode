@@ -1,19 +1,19 @@
 /**
- * Definition for a binary tree node.
- * struct TreeNode {
- *     int val;
- *     TreeNode *left;
- *     TreeNode *right;
- *     TreeNode() : val(0), left(nullptr), right(nullptr) {}
- *     TreeNode(int x) : val(x), left(nullptr), right(nullptr) {}
- *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
+Push all left nodes in actual stack
+// next() =>  Pop top.
+// Move to right child.
+// Push all left nodes of right child.
+// Return popped value.
+
+// hasNext()
+// Stack empty ? false : true
  * };
  */
 class BSTIterator {
 public:
     stack<TreeNode*> st;
 
-    void storeLeftNodes(TreeNode* root){
+    void storeLeftNodes(TreeNode* root){ //IMPP, store left nodes
         while(root!=NULL){
             st.push(root) ;
             root = root->left;
@@ -24,10 +24,10 @@ public:
         storeLeftNodes(root);
     }
     
-    int next() {
+    int next() { //IMP
         TreeNode* ans = st.top();
         st.pop();
-        if(ans->right) storeLeftNodes(ans->right);
+        if(ans->right) storeLeftNodes(ans->right); //IMPP
         return ans->val;
     }
     
