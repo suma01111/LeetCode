@@ -9,21 +9,35 @@
  *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
  * };
  */
+//thier are many ways to insert, but insert at leaf node
+ //where we have to store Node, so this will always be Leaf node
 class Solution {
 public:
     TreeNode* insertIntoBST(TreeNode* root, int val) {
         //base case
         if(root==NULL) {
-             TreeNode* temp = new TreeNode(val);
-             return temp;
+             return new TreeNode(val);
         }
 
-        if(root->val > val){
-                root->left = insertIntoBST(root->left , val);
+        TreeNode* curr=root;
+        while(true){
+            if(curr->val <= val){
+                if(curr->right!=NULL) curr=curr->right;
+                else{
+                    curr->right = new TreeNode(val);
+                    break;
+                }
         } 
-        if(root->val < val){
-                root->right = insertIntoBST(root->right , val);
-        } 
+
+            else{
+                if(curr->left!=NULL) curr=curr->left;
+                else{
+                    curr->left= new TreeNode(val);
+                    break;
+                }
+            }
+        }
+
         return root ;
     }
 };
