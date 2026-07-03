@@ -1,4 +1,4 @@
-//APPROACH 1 : iterative 
+//APPROACH 2 : recursion (0(H)) TC
 
 // 1. If both nodes are smaller, go left.
 // 2. If both nodes are greater, go right.
@@ -7,20 +7,19 @@
 class Solution {
 public:
     TreeNode* lowestCommonAncestor(TreeNode* root, TreeNode* p, TreeNode* q) {
-        while (root) {
-            // If both nodes are smaller, go left
-            if (p->val < root->val && q->val < root->val) {
-                root = root->left;
-            }
-            // If both nodes are larger, go right
-            else if (p->val > root->val && q->val > root->val) {
-                root = root->right;
-            }
-            // Nodes are on different sides OR one equals to root
-            else {
-                return root; 
-            }
-        }
-        return NULL;
+
+        if (p->val < root->val && q->val < root->val)
+            return lowestCommonAncestor(root->left, p, q);
+
+        if (p->val > root->val && q->val > root->val)
+            return lowestCommonAncestor(root->right, p, q);
+
+        return root;
     }
 };
+
+/*
+Approach	TC.     SC
+Recursive	O(H)	O(H)
+Iterative	O(H)	O(1)
+*/
