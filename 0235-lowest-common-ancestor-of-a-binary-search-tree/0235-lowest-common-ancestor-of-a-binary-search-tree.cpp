@@ -20,7 +20,7 @@ public:
             else if (p->val > root->val && q->val > root->val) {
                 root = root->right;
             }
-            // Nodes are on different sides OR one equals root
+            // Nodes are on different sides OR one equals to root
             else {
                 return root; 
             }
