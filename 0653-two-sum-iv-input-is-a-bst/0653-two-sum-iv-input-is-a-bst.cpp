@@ -1,4 +1,4 @@
-/**
+/** sol 2
 // 1. Store inorder traversal.
 // 2. Apply two pointers.
 // 3. If sum == k return true.
@@ -6,16 +6,28 @@
 // 5. Else move right pointer.
  */
 class Solution {
-    unordered_set<int> set; 
 public:
+    vector<int> inorder;
+
+    void dfs(TreeNode* root) {
+        if (!root) return;
+        dfs(root->left);
+        inorder.push_back(root->val);
+        dfs(root->right);
+    }
+
     bool findTarget(TreeNode* root, int k) {
-        if (!root) return false; 
+        dfs(root); //give update inorder array
 
-        if(set.count(k - root->val)) return true; // Check if complement exists
-        
-        set.insert(root->val);// Insert current value
+        int i=0, j=inorder.size()-1;
+        while (i < j) {
+            int sum = inorder[i]+inorder[j];
 
-        return findTarget(root->left,k)
-            || findTarget(root->right,k);
+            if (sum == k) return true;
+            if (sum < k) i++;
+            else j--;
+        }
+
+        return false;
     }
 };
