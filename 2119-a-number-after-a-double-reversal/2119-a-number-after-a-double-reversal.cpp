@@ -1,3 +1,4 @@
+//by me
 class Solution {
 public:
     bool isSameAfterReversals(int num) {
@@ -19,3 +20,15 @@ public:
         return (original.size() == r.size());
     }
 };
+
+//OPTIMAL
+// class Solution {
+// public:
+//     bool isSameAfterReversals(int num) {
+//         return (num == 0 || num % 10 != 0);
+//     }
+// };
+// Time Complexity
+// O(1)
+// Space Complexity
+// O(1)
