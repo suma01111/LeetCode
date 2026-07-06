@@ -473,6 +473,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3748-sort-matrix-by-diagonals](https://github.com/suma01111/LeetCode/tree/master/3748-sort-matrix-by-diagonals) |
 | [3790-fruits-into-baskets-ii](https://github.com/suma01111/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/suma01111/LeetCode/tree/master/3791-fruits-into-baskets-iii) |
+| [3834-merge-adjacent-equal-elements](https://github.com/suma01111/LeetCode/tree/master/3834-merge-adjacent-equal-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/suma01111/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3909-compare-sums-of-bitonic-parts](https://github.com/suma01111/LeetCode/tree/master/3909-compare-sums-of-bitonic-parts) |
 ## Hash Table
@@ -1181,6 +1182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/suma01111/LeetCode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/suma01111/LeetCode/tree/master/3726-remove-zeros-in-decimal-representation) |
 | [3790-fruits-into-baskets-ii](https://github.com/suma01111/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
+| [3834-merge-adjacent-equal-elements](https://github.com/suma01111/LeetCode/tree/master/3834-merge-adjacent-equal-elements) |
 ## Design
 |  |
 | ------- |
@@ -1246,6 +1248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2390-removing-stars-from-a-string](https://github.com/suma01111/LeetCode/tree/master/2390-removing-stars-from-a-string) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/suma01111/LeetCode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [3447-clear-digits](https://github.com/suma01111/LeetCode/tree/master/3447-clear-digits) |
+| [3834-merge-adjacent-equal-elements](https://github.com/suma01111/LeetCode/tree/master/3834-merge-adjacent-equal-elements) |
 ## Data Stream
 |  |
 | ------- |
