@@ -333,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/suma01111/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1260-shift-2d-grid](https://github.com/suma01111/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1266-minimum-time-visiting-all-points](https://github.com/suma01111/LeetCode/tree/master/1266-minimum-time-visiting-all-points) |
+| [1288-remove-covered-intervals](https://github.com/suma01111/LeetCode/tree/master/1288-remove-covered-intervals) |
 | [1306-jump-game-iii](https://github.com/suma01111/LeetCode/tree/master/1306-jump-game-iii) |
 | [1340-jump-game-v](https://github.com/suma01111/LeetCode/tree/master/1340-jump-game-v) |
 | [1345-jump-game-iv](https://github.com/suma01111/LeetCode/tree/master/1345-jump-game-iv) |
@@ -811,6 +812,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1018-largest-perimeter-triangle](https://github.com/suma01111/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1051-height-checker](https://github.com/suma01111/LeetCode/tree/master/1051-height-checker) |
 | [1200-minimum-absolute-difference](https://github.com/suma01111/LeetCode/tree/master/1200-minimum-absolute-difference) |
+| [1288-remove-covered-intervals](https://github.com/suma01111/LeetCode/tree/master/1288-remove-covered-intervals) |
 | [1340-jump-game-v](https://github.com/suma01111/LeetCode/tree/master/1340-jump-game-v) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/suma01111/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/suma01111/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
