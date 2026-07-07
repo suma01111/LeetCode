@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/suma01111/LeetCode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/suma01111/LeetCode/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/suma01111/LeetCode/tree/master/3726-remove-zeros-in-decimal-representation) |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/suma01111/LeetCode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3783-mirror-distance-of-an-integer](https://github.com/suma01111/LeetCode/tree/master/3783-mirror-distance-of-an-integer) |
 | [3830-find-closest-person](https://github.com/suma01111/LeetCode/tree/master/3830-find-closest-person) |
 | [3875-construct-uniform-parity-array-i](https://github.com/suma01111/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
