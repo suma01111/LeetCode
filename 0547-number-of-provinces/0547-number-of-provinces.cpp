@@ -1,15 +1,14 @@
-//dfs, first converting adj matrix to adj list, Approach-1
-
-//Converting to an adjacency list takes O(n²) time, so for this problem it's actually more efficient to use the given adjacency matrix directly. 
-
+//Approach -1, dfs
+//without converting into adj list, direct access to adj matrix
 class Solution {
 
-    void dfs(int node,vector<vector<int>> &adj,vector<bool> &vis) {
+    void dfs(int node,vector<vector<int>>& isConnected,vector<bool>& vis) {
         vis[node]=true;
 
-        for (int nei : adj[node]) {
-            if (!vis[nei]) {
-                dfs(nei,adj,vis);
+        for (int nei=0;nei<isConnected.size();nei++) {
+    //Because every column represents a possible neighbor, trversing col of node
+            if (isConnected[node][nei]==1 && !vis[nei]) { //IMPPP, new
+                dfs(nei,isConnected,vis);
             }
         }
     }
@@ -17,30 +16,16 @@ class Solution {
 public:
     int findCircleNum(vector<vector<int>>& isConnected) {
         int n=isConnected.size();
-
-        // Convert adjacency matrix to adjacency list
-        vector<vector<int>> adj(n);
-
-        for (int i=0;i<n;i++){
-            for (int j=0;j<n;j++){
-                //isConnected[i][i]=1,means a city is connected to itself
-                if (i!=j && isConnected[i][j]==1) { 
-                    adj[i].push_back(j);
-                }
-            }
-        }
-
         vector<bool> vis(n,false);
         int provinces=0;
 
-        for (int i=0;i<n;i++){
-            if(!vis[i]){
-                dfs(i,adj,vis);
+        for (int i=0;i<n;i++) {
+            if (!vis[i]) {
+                dfs(i,isConnected,vis);
                 provinces++;
             }
         }
+
         return provinces;
     }
 };
-
-//The adjacency list version is mainly useful for learning or if you want a consistent DFS template across graph problems.
