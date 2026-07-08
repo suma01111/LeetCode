@@ -1,14 +1,17 @@
+//by cycle detection in directed graph approach
+//topo vector added for topological sort (store value while backtracking and then reverse order will give topo order)
+
 class Solution {
     bool dfs(int node, vector<vector<int>> &adj,
              vector<int> &vis, vector<int> &pathVis,
-             vector<int> &ans){
+             vector<int> &topo){
 
         vis[node]=1;
         pathVis[node]=1;
 
         for(int nei: adj[node]){
             if(!vis[nei]){
-                if(dfs(nei,adj,vis,pathVis,ans))
+                if(dfs(nei,adj,vis,pathVis,topo))
                     return true;
             }
             else if(pathVis[nei])
@@ -17,7 +20,7 @@ class Solution {
         // Remove node from current DFS path
         pathVis[node]=0;
         // Store node after visiting all its neighbours
-        ans.push_back(node);
+        topo.push_back(node);
         return false;
     }
 
@@ -30,15 +33,19 @@ public:
 
         vector<int> vis(numCourses,0);
         vector<int> pathVis(numCourses,0);
-        vector<int> ans;
+        vector<int> topo;
 
         for(int i=0;i<numCourses;i++){
             if(!vis[i]){
-                if(dfs(i,adj,vis,pathVis,ans))
+                if(dfs(i,adj,vis,pathVis,topo))
                     return {};
             }
         }
-        reverse(ans.begin(),ans.end());
-        return ans;
+        reverse(topo.begin(),topo.end()); //just reverse array, as start pushed course can come before any course so put at last
+        return topo;
     }
 };
+
+
+// The important point is:
+// A node is added to ans only after all its neighbours (dependent courses) have been processed.
