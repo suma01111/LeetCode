@@ -1,40 +1,71 @@
-// for N vertices I need N-1 edge
+//Approach 2- DSU 
+//number of ultimate parent wil give us number of total number of compenet and , comp-1 extra edge we want
+
+    // Approach:
+    // 1. A connected graph with n nodes requires at least (n-1) edges.
+    // 2. If edges < (n-1), return -1.
+    // 3. Use DSU to connect components.
+    // 4. If both nodes already have the same parent, it's an extra edge.
+    // 5. Count the number of connected components.
+    // 6. To connect k components, we need (k-1) edges.
+    // 7. If extra edges >= required edges, return required edges.
+
 class Solution {
 public:
-    void dfs(int node, vector<vector<int>>& adj, vector<int>& vis){
-        vis[node] =1;
-        for(auto neighbour : adj[node]){
-            if(!vis[neighbour]){
-                dfs(neighbour,adj,vis);
-            }
+    vector<int> parent, size;
+
+    // Find the ultimate parent (with Path Compression)
+    int findParent(int node) {
+        if (node==parent[node])
+            return node;
+        return parent[node]=findParent(parent[node]);
+    }
+
+    // Merge two components (pu & pv are already ultimate parents)
+    void unionBySize(int pu, int pv) {
+        if (size[pu]<size[pv]) {
+            parent[pu]=pv;
+            size[pv]+=size[pu];
+        }
+        else {
+            parent[pv]=pu;
+            size[pu]+=size[pv];
         }
     }
 
-public:
     int makeConnected(int n, vector<vector<int>>& connections) {
+        if (connections.size()<n-1) //for N size of graph, N-1 edge needed
+            return -1;
 
-        if(connections.size() < n-1) return -1; // minimum edges needed = n-1
+        parent.resize(n);
+        size.assign(n,1);
 
-        vector<vector<int>> adj(n);
-        //building graph
-        for(auto e: connections){
-            int u=e[0];
-            int v=e[1];
+        for (int i=0;i<n;i++) parent[i]=i;
 
-            adj[u].push_back(v);
-            adj[v].push_back(u);
-        }
+        int extraEdges=0;
 
-        vector<int> vis(n,0);
-        int comp =0;
-        for(int i=0;i<n;i++){
-            if(!vis[i]){
-                dfs(i,adj,vis);
-                comp++;//number of componenet graph
+        for (auto &it : connections) {
+            int u=it[0];
+            int v=it[1];
+
+            int pu=findParent(u);
+            int pv=findParent(v);
+
+            // Edge forms a cycle
+            if (pu==pv) extraEdges++;
+            else {
+                unionBySize(pu,pv);
             }
         }
 
+        int components=0;
 
-        return comp-1;//these extra edge i need
+        // Count connected components
+        for (int i=0;i<n;i++) {
+            if(findParent(i)==i)
+                components++;
+        }
+
+        return (extraEdges>=(components-1)) ? (components-1) : -1;
     }
 };
