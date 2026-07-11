@@ -30,8 +30,8 @@ public:
         int comp =0;
         for(int i=0;i<n;i++){
             if(!vis[i]){
-                comp++;
                 dfs(i,adj,vis);
+                comp++;
             }
         }
 
