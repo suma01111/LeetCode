@@ -10,7 +10,6 @@ public:
         }
     }
 
-
 public:
     int makeConnected(int n, vector<vector<int>>& connections) {
 
@@ -31,11 +30,11 @@ public:
         for(int i=0;i<n;i++){
             if(!vis[i]){
                 dfs(i,adj,vis);
-                comp++;
+                comp++;//number of componenet graph
             }
         }
 
 
-        return comp-1;
+        return comp-1;//these extra edge i need
     }
 };
