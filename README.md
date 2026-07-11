@@ -315,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/suma01111/LeetCode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/suma01111/LeetCode/tree/master/0739-daily-temperatures) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/suma01111/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0827-making-a-large-island](https://github.com/suma01111/LeetCode/tree/master/0827-making-a-large-island) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/suma01111/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0854-making-a-large-island](https://github.com/suma01111/LeetCode/tree/master/0854-making-a-large-island) |
 | [0874-walking-robot-simulation](https://github.com/suma01111/LeetCode/tree/master/0874-walking-robot-simulation) |
@@ -985,6 +986,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0785-is-graph-bipartite](https://github.com/suma01111/LeetCode/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/suma01111/LeetCode/tree/master/0802-find-eventual-safe-states) |
 | [0820-find-eventual-safe-states](https://github.com/suma01111/LeetCode/tree/master/0820-find-eventual-safe-states) |
+| [0827-making-a-large-island](https://github.com/suma01111/LeetCode/tree/master/0827-making-a-large-island) |
 | [0854-making-a-large-island](https://github.com/suma01111/LeetCode/tree/master/0854-making-a-large-island) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/suma01111/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/suma01111/LeetCode/tree/master/0994-rotting-oranges) |
@@ -1056,6 +1058,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0407-trapping-rain-water-ii](https://github.com/suma01111/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0498-diagonal-traverse](https://github.com/suma01111/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0733-flood-fill](https://github.com/suma01111/LeetCode/tree/master/0733-flood-fill) |
+| [0827-making-a-large-island](https://github.com/suma01111/LeetCode/tree/master/0827-making-a-large-island) |
 | [0854-making-a-large-island](https://github.com/suma01111/LeetCode/tree/master/0854-making-a-large-island) |
 | [0994-rotting-oranges](https://github.com/suma01111/LeetCode/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/suma01111/LeetCode/tree/master/1020-number-of-enclaves) |
@@ -1145,6 +1148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0785-is-graph-bipartite](https://github.com/suma01111/LeetCode/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/suma01111/LeetCode/tree/master/0802-find-eventual-safe-states) |
 | [0820-find-eventual-safe-states](https://github.com/suma01111/LeetCode/tree/master/0820-find-eventual-safe-states) |
+| [0827-making-a-large-island](https://github.com/suma01111/LeetCode/tree/master/0827-making-a-large-island) |
 | [0854-making-a-large-island](https://github.com/suma01111/LeetCode/tree/master/0854-making-a-large-island) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/suma01111/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/suma01111/LeetCode/tree/master/0988-smallest-string-starting-from-leaf) |
@@ -1609,6 +1613,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/suma01111/LeetCode/tree/master/0547-number-of-provinces) |
 | [0721-accounts-merge](https://github.com/suma01111/LeetCode/tree/master/0721-accounts-merge) |
 | [0785-is-graph-bipartite](https://github.com/suma01111/LeetCode/tree/master/0785-is-graph-bipartite) |
+| [0827-making-a-large-island](https://github.com/suma01111/LeetCode/tree/master/0827-making-a-large-island) |
 | [1020-number-of-enclaves](https://github.com/suma01111/LeetCode/tree/master/1020-number-of-enclaves) |
 | [1061-lexicographically-smallest-equivalent-string](https://github.com/suma01111/LeetCode/tree/master/1061-lexicographically-smallest-equivalent-string) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/suma01111/LeetCode/tree/master/1319-number-of-operations-to-make-network-connected) |
