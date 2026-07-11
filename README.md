@@ -209,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/suma01111/LeetCode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2540-minimum-common-value](https://github.com/suma01111/LeetCode/tree/master/2540-minimum-common-value) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/suma01111/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/suma01111/LeetCode/tree/master/2981-find-longest-special-substring-that-occurs-thrice-i) |
 | [3161-block-placement-queries](https://github.com/suma01111/LeetCode/tree/master/3161-block-placement-queries) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/suma01111/LeetCode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3453-separate-squares-i](https://github.com/suma01111/LeetCode/tree/master/3453-separate-squares-i) |
@@ -585,6 +586,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2845-count-of-interesting-subarrays](https://github.com/suma01111/LeetCode/tree/master/2845-count-of-interesting-subarrays) |
 | [2848-points-that-intersect-with-cars](https://github.com/suma01111/LeetCode/tree/master/2848-points-that-intersect-with-cars) |
 | [2965-find-missing-and-repeated-values](https://github.com/suma01111/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
+| [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/suma01111/LeetCode/tree/master/2981-find-longest-special-substring-that-occurs-thrice-i) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/suma01111/LeetCode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/suma01111/LeetCode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/suma01111/LeetCode/tree/master/3120-count-the-number-of-special-characters-i) |
@@ -741,6 +743,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2833-furthest-point-from-origin](https://github.com/suma01111/LeetCode/tree/master/2833-furthest-point-from-origin) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/suma01111/LeetCode/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/suma01111/LeetCode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
+| [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/suma01111/LeetCode/tree/master/2981-find-longest-special-substring-that-occurs-thrice-i) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/suma01111/LeetCode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3093-longest-common-suffix-queries](https://github.com/suma01111/LeetCode/tree/master/3093-longest-common-suffix-queries) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/suma01111/LeetCode/tree/master/3120-count-the-number-of-special-characters-i) |
@@ -894,6 +897,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2351-first-letter-to-appear-twice](https://github.com/suma01111/LeetCode/tree/master/2351-first-letter-to-appear-twice) |
 | [2448-count-number-of-bad-pairs](https://github.com/suma01111/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 | [2833-furthest-point-from-origin](https://github.com/suma01111/LeetCode/tree/master/2833-furthest-point-from-origin) |
+| [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/suma01111/LeetCode/tree/master/2981-find-longest-special-substring-that-occurs-thrice-i) |
 | [3713-longest-balanced-substring-i](https://github.com/suma01111/LeetCode/tree/master/3713-longest-balanced-substring-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/suma01111/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/suma01111/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
@@ -1474,6 +1478,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/suma01111/LeetCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/suma01111/LeetCode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/suma01111/LeetCode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/suma01111/LeetCode/tree/master/2981-find-longest-special-substring-that-occurs-thrice-i) |
 ## Database
 |  |
 | ------- |
