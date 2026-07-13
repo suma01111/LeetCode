@@ -1,3 +1,4 @@
+// sol 2, my logic was in sol1, that is wrong
 class Solution {
 public:
     int maxAreaOfIsland(vector<vector<int>>& grid) {
