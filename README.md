@@ -169,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2511-maximum-enemy-forts-that-can-be-captured](https://github.com/suma01111/LeetCode/tree/master/2511-maximum-enemy-forts-that-can-be-captured) |
 | [2540-minimum-common-value](https://github.com/suma01111/LeetCode/tree/master/2540-minimum-common-value) |
 | [2551-apply-operations-to-an-array](https://github.com/suma01111/LeetCode/tree/master/2551-apply-operations-to-an-array) |
+| [2697-lexicographically-smallest-palindrome](https://github.com/suma01111/LeetCode/tree/master/2697-lexicographically-smallest-palindrome) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/suma01111/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3218-minimum-cost-for-cutting-cake-i](https://github.com/suma01111/LeetCode/tree/master/3218-minimum-cost-for-cutting-cake-i) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/suma01111/LeetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -742,6 +743,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2414-length-of-the-longest-alphabetical-continuous-substring](https://github.com/suma01111/LeetCode/tree/master/2414-length-of-the-longest-alphabetical-continuous-substring) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/suma01111/LeetCode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/suma01111/LeetCode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [2697-lexicographically-smallest-palindrome](https://github.com/suma01111/LeetCode/tree/master/2697-lexicographically-smallest-palindrome) |
 | [2833-furthest-point-from-origin](https://github.com/suma01111/LeetCode/tree/master/2833-furthest-point-from-origin) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/suma01111/LeetCode/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/suma01111/LeetCode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
@@ -787,6 +789,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2126-destroying-asteroids](https://github.com/suma01111/LeetCode/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/suma01111/LeetCode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/suma01111/LeetCode/tree/master/2456-construct-smallest-number-from-di-string) |
+| [2697-lexicographically-smallest-palindrome](https://github.com/suma01111/LeetCode/tree/master/2697-lexicographically-smallest-palindrome) |
 | [3218-minimum-cost-for-cutting-cake-i](https://github.com/suma01111/LeetCode/tree/master/3218-minimum-cost-for-cutting-cake-i) |
 | [3219-minimum-cost-for-cutting-cake-ii](https://github.com/suma01111/LeetCode/tree/master/3219-minimum-cost-for-cutting-cake-ii) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/suma01111/LeetCode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
