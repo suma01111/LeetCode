@@ -313,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/suma01111/LeetCode/tree/master/0605-can-place-flowers) |
 | [0621-task-scheduler](https://github.com/suma01111/LeetCode/tree/master/0621-task-scheduler) |
 | [0643-maximum-average-subarray-i](https://github.com/suma01111/LeetCode/tree/master/0643-maximum-average-subarray-i) |
+| [0695-max-area-of-island](https://github.com/suma01111/LeetCode/tree/master/0695-max-area-of-island) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/suma01111/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0721-accounts-merge](https://github.com/suma01111/LeetCode/tree/master/0721-accounts-merge) |
 | [0724-find-pivot-index](https://github.com/suma01111/LeetCode/tree/master/0724-find-pivot-index) |
@@ -1000,6 +1001,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/suma01111/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/suma01111/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0684-redundant-connection](https://github.com/suma01111/LeetCode/tree/master/0684-redundant-connection) |
+| [0695-max-area-of-island](https://github.com/suma01111/LeetCode/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/suma01111/LeetCode/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/suma01111/LeetCode/tree/master/0733-flood-fill) |
 | [0778-swim-in-rising-water](https://github.com/suma01111/LeetCode/tree/master/0778-swim-in-rising-water) |
@@ -1084,6 +1086,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0407-trapping-rain-water-ii](https://github.com/suma01111/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0463-island-perimeter](https://github.com/suma01111/LeetCode/tree/master/0463-island-perimeter) |
 | [0498-diagonal-traverse](https://github.com/suma01111/LeetCode/tree/master/0498-diagonal-traverse) |
+| [0695-max-area-of-island](https://github.com/suma01111/LeetCode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/suma01111/LeetCode/tree/master/0733-flood-fill) |
 | [0778-swim-in-rising-water](https://github.com/suma01111/LeetCode/tree/master/0778-swim-in-rising-water) |
 | [0827-making-a-large-island](https://github.com/suma01111/LeetCode/tree/master/0827-making-a-large-island) |
@@ -1174,6 +1177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/suma01111/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/suma01111/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0684-redundant-connection](https://github.com/suma01111/LeetCode/tree/master/0684-redundant-connection) |
+| [0695-max-area-of-island](https://github.com/suma01111/LeetCode/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/suma01111/LeetCode/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/suma01111/LeetCode/tree/master/0733-flood-fill) |
 | [0778-swim-in-rising-water](https://github.com/suma01111/LeetCode/tree/master/0778-swim-in-rising-water) |
@@ -1656,6 +1660,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/suma01111/LeetCode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/suma01111/LeetCode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/suma01111/LeetCode/tree/master/0547-number-of-provinces) |
+| [0695-max-area-of-island](https://github.com/suma01111/LeetCode/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/suma01111/LeetCode/tree/master/0721-accounts-merge) |
 | [0778-swim-in-rising-water](https://github.com/suma01111/LeetCode/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/suma01111/LeetCode/tree/master/0785-is-graph-bipartite) |
