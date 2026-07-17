@@ -370,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1389-create-target-array-in-the-given-order](https://github.com/suma01111/LeetCode/tree/master/1389-create-target-array-in-the-given-order) |
 | [1395-count-number-of-teams](https://github.com/suma01111/LeetCode/tree/master/1395-count-number-of-teams) |
 | [1396-count-servers-that-communicate](https://github.com/suma01111/LeetCode/tree/master/1396-count-servers-that-communicate) |
+| [1408-string-matching-in-an-array](https://github.com/suma01111/LeetCode/tree/master/1408-string-matching-in-an-array) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/suma01111/LeetCode/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/suma01111/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/suma01111/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
@@ -733,6 +734,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/suma01111/LeetCode/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/suma01111/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/suma01111/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1408-string-matching-in-an-array](https://github.com/suma01111/LeetCode/tree/master/1408-string-matching-in-an-array) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/suma01111/LeetCode/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1446-consecutive-characters](https://github.com/suma01111/LeetCode/tree/master/1446-consecutive-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/suma01111/LeetCode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -1582,6 +1584,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/suma01111/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0572-subtree-of-another-tree](https://github.com/suma01111/LeetCode/tree/master/0572-subtree-of-another-tree) |
 | [0812-rotate-string](https://github.com/suma01111/LeetCode/tree/master/0812-rotate-string) |
+| [1408-string-matching-in-an-array](https://github.com/suma01111/LeetCode/tree/master/1408-string-matching-in-an-array) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/suma01111/LeetCode/tree/master/3474-lexicographically-smallest-generated-string) |
 ## Bucket Sort
 |  |
