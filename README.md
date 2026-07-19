@@ -729,6 +729,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/suma01111/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1061-lexicographically-smallest-equivalent-string](https://github.com/suma01111/LeetCode/tree/master/1061-lexicographically-smallest-equivalent-string) |
 | [1078-remove-outermost-parentheses](https://github.com/suma01111/LeetCode/tree/master/1078-remove-outermost-parentheses) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/suma01111/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/suma01111/LeetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1143-longest-common-subsequence](https://github.com/suma01111/LeetCode/tree/master/1143-longest-common-subsequence) |
 | [1160-letter-tile-possibilities](https://github.com/suma01111/LeetCode/tree/master/1160-letter-tile-possibilities) |
@@ -802,6 +803,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/suma01111/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/suma01111/LeetCode/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1018-largest-perimeter-triangle](https://github.com/suma01111/LeetCode/tree/master/1018-largest-perimeter-triangle) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/suma01111/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/suma01111/LeetCode/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/suma01111/LeetCode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/suma01111/LeetCode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
@@ -1349,6 +1351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/suma01111/LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/suma01111/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1078-remove-outermost-parentheses](https://github.com/suma01111/LeetCode/tree/master/1078-remove-outermost-parentheses) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/suma01111/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/suma01111/LeetCode/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1441-build-an-array-with-stack-operations](https://github.com/suma01111/LeetCode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/suma01111/LeetCode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
@@ -1578,6 +1581,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0901-online-stock-span](https://github.com/suma01111/LeetCode/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/suma01111/LeetCode/tree/master/0907-sum-of-subarray-minimums) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/suma01111/LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/suma01111/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/suma01111/LeetCode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1628-count-submatrices-with-all-ones](https://github.com/suma01111/LeetCode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/suma01111/LeetCode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
